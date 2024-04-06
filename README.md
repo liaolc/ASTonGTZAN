@@ -1,2 +1,2 @@
-# GTZANdata
-GTZANdataset with 16kHz .wav files, mel spectrograms from kaggle, and a few txtlists and all that
+# ASTonGTZAN
+Applying a pretrained Audio Spectrogram Transformer (https://arxiv.org/abs/2104.01778, https://github.com/YuanGongND/ast) on the downstream task of music genre classification on the GTZAN dataset
