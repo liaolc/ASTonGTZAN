@@ -179,9 +179,7 @@ class ASTModel(nn.Module):
         x = x + self.v.pos_embed
         x = self.v.pos_drop(x)
         for blk in self.v.blocks:
-            print(blk)
             x = blk(x)
-
         x = self.v.norm(x)
         x = (x[:, 0] + x[:, 1]) / 2
 
