@@ -182,7 +182,7 @@ class ASTModel(nn.Module):
         for blk in self.v.blocks:
             count += 1
             #print(blk)
-            if count > 7:
+            if count < 5:
                 for param in blk.parameters():
                     param.requires_grad = False
             x = blk(x)

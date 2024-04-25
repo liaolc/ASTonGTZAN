@@ -29,8 +29,9 @@ batch_size=8
 fstride=10
 tstride=10
 
-dataset_mean=-4.2677393
-dataset_std=4.5689974
+#-2.0282807 2.8594136
+dataset_mean=-2.0282807
+dataset_std=2.8594136
 audio_length=1024
 noise=False
 
@@ -60,6 +61,7 @@ fi
 mkdir -p $exp_dir
 
 # python ./prep_GTZAN.py
+#python ../../src/get_norm_stats.py
 
 CUDA_CACHE_DISABLE=1 python -W ignore ../../src/run.py --model ${model} --dataset ${dataset} \
 --data-train ${tr_data} --data-val ${val_data} --data-eval ${eval_data} --exp-dir $exp_dir \
