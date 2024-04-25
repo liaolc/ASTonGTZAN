@@ -1,0 +1,7076 @@
+{
+ "data": [
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00029.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00030.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00031.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00032.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00033.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00034.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00035.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00036.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00037.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00038.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00039.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00040.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00041.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00042.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00043.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00044.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00045.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00046.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00047.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00048.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00049.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00073.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00074.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00075.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00076.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00077.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00078.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00079.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00080.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00081.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00082.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00083.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00084.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00085.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00086.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00087.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00088.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00089.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00090.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00091.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00092.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00093.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00094.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00095.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00096.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00097.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00030.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00031.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00032.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00033.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00043.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00044.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00045.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00046.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00047.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00048.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00050.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00051.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00052.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00053.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00054.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00055.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00056.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00057.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00058.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00059.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00060.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00061.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00062.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00063.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00064.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00065.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00066.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00067.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00080.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00081.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00082.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00083.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00084.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00085.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00086.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00087.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00088.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00089.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00090.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00091.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00092.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00093.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00094.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00095.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00096.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00097.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00098.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00099.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00019.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00020.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00021.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00022.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00023.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00024.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00025.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00026.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00028.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00029.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00065.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00066.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00067.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00068.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00069.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00070.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00071.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00072.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00073.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00074.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00075.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00076.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00077.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00078.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00079.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00080.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00081.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00082.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00083.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00084.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00085.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00086.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00087.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00088.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00089.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00090.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00091.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00092.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00093.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00094.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00095.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00096.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00097.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00098.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00099.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00005.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00015.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00016.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00017.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00018.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00019.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00020.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00022.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00023.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00024.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00025.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00026.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00027.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00028.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00029.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00030.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00031.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00032.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00033.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00034.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00035.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00036.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00037.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00039.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00040.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00041.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00042.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00043.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00044.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00045.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00047.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00049.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00053.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00054.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00056.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00057.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00059.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00061.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00070.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00073.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00074.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00089.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00002.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00003.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00004.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00005.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00006.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00007.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00008.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00009.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00010.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00011.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00012.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00013.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00014.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00015.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00016.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00017.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00018.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00019.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00020.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00021.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00022.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00023.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00024.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00025.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00028.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00029.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00031.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00032.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00033.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00034.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00035.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00036.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00037.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00038.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00041.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00042.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00055.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00056.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00057.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00058.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00059.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00060.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00061.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00077.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00078.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00079.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00080.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00000.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00001.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00011.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00012.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00013.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00014.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00015.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00016.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00017.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00018.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00019.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00020.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00021.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00022.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00023.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00024.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00041.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00047.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00048.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00049.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00050.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00051.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00052.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00053.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00055.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00056.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00057.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00058.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00059.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00060.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00061.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00062.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00063.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00064.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00065.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00066.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00067.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00068.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00069.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00070.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00071.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00072.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00002.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00003.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00005.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00021.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00024.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00035.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00046.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00047.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00048.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00049.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00050.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00051.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00052.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00053.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00054.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00055.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00056.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00057.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00059.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00060.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00061.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00062.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00063.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00064.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00065.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00066.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00069.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00071.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00072.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00079.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00080.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00084.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00086.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00089.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00090.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00091.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00092.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00093.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00094.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00095.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00096.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00097.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00098.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00099.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00002.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00003.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00004.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00005.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00006.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00007.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00008.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00009.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00011.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00012.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00016.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00017.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00018.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00019.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00020.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00023.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00024.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00025.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00026.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00027.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00028.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00029.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00031.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00032.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00033.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00034.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00035.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00036.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00038.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00039.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00040.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00041.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00042.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00044.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00046.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00049.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00050.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00080.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00097.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00098.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00099.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00000.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00001.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00002.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00004.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00006.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00009.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00011.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00012.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00014.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00015.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00016.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00017.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00018.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00019.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00020.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00021.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00022.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00023.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00024.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00025.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00026.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00027.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00028.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00029.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00030.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00031.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00032.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00042.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00043.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00044.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00045.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00049.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00050.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00051.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00054.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00055.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00056.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00057.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00058.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00059.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00060.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00063.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00069.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00000.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00001.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00002.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00003.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00004.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00005.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00006.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00007.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00008.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00009.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00016.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00017.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00018.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00019.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00020.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00021.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00022.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00023.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00024.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00025.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00026.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00057.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00058.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00059.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00060.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00061.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00062.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00063.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00064.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00065.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00066.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00067.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00068.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00069.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00070.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00091.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00092.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00093.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00094.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00095.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00096.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00097.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00098.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00099.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00029.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00030.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00031.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00032.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00033.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00034.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00035.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00036.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00037.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00038.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00039.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00040.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00041.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00042.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00043.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00044.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00045.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00046.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00047.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00048.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00049.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00073.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00074.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00075.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00076.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00077.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00078.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00079.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00080.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00081.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00082.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00083.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00084.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00085.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00086.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00087.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00088.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00089.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00090.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00091.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00092.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00093.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00094.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00095.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00096.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues/blues.00097.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00030.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00031.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00032.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00033.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00043.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00044.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00045.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00046.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00047.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00048.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00050.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00051.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00052.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00053.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00054.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00055.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00056.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00057.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00058.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00059.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00060.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00061.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00062.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00063.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00064.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00065.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00066.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00067.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00080.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00081.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00082.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00083.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00084.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00085.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00086.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00087.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00088.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00089.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00090.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00091.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00092.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00093.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00094.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00095.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00096.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00097.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00098.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical/classical.00099.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00019.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00020.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00021.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00022.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00023.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00024.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00025.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00026.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00028.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00029.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00065.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00066.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00067.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00068.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00069.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00070.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00071.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00072.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00073.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00074.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00075.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00076.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00077.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00078.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00079.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00080.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00081.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00082.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00083.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00084.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00085.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00086.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00087.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00088.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00089.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00090.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00091.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00092.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00093.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00094.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00095.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00096.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00097.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00098.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country/country.00099.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00005.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00015.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00016.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00017.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00018.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00019.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00020.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00022.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00023.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00024.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00025.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00026.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00027.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00028.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00029.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00030.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00031.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00032.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00033.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00034.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00035.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00036.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00037.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00039.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00040.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00041.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00042.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00043.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00044.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00045.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00047.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00049.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00053.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00054.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00056.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00057.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00059.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00061.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00070.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00073.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00074.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco/disco.00089.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00002.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00003.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00004.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00005.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00006.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00007.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00008.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00009.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00010.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00011.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00012.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00013.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00014.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00015.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00016.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00017.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00018.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00019.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00020.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00021.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00022.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00023.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00024.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00025.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00028.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00029.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00031.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00032.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00033.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00034.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00035.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00036.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00037.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00038.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00041.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00042.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00055.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00056.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00057.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00058.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00059.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00060.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00061.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00077.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00078.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00079.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop/hiphop.00080.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00000.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00001.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00011.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00012.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00013.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00014.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00015.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00016.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00017.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00018.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00019.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00020.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00021.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00022.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00023.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00024.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00041.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00047.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00048.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00049.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00050.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00051.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00052.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00053.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00055.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00056.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00057.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00058.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00059.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00060.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00061.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00062.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00063.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00064.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00065.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00066.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00067.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00068.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00069.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00070.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00071.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz/jazz.00072.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00002.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00003.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00005.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00021.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00024.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00035.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00046.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00047.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00048.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00049.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00050.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00051.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00052.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00053.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00054.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00055.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00056.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00057.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00059.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00060.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00061.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00062.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00063.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00064.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00065.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00066.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00069.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00071.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00072.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00079.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00080.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00084.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00086.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00089.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00090.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00091.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00092.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00093.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00094.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00095.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00096.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00097.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00098.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal/metal.00099.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00002.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00003.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00004.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00005.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00006.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00007.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00008.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00009.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00011.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00012.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00016.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00017.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00018.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00019.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00020.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00023.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00024.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00025.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00026.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00027.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00028.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00029.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00031.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00032.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00033.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00034.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00035.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00036.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00038.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00039.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00040.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00041.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00042.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00044.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00046.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00049.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00050.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00080.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00097.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00098.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop/pop.00099.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00000.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00001.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00002.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00004.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00006.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00009.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00011.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00012.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00014.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00015.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00016.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00017.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00018.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00019.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00020.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00021.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00022.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00023.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00024.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00025.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00026.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00027.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00028.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00029.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00030.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00031.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00032.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00042.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00043.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00044.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00045.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00049.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00050.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00051.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00054.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00055.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00056.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00057.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00058.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00059.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00060.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00063.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae/reggae.00069.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00000.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00001.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00002.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00003.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00004.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00005.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00006.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00007.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00008.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00009.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00016.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00017.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00018.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00019.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00020.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00021.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00022.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00023.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00024.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00025.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00026.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00057.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00058.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00059.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00060.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00061.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00062.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00063.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00064.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00065.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00066.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00067.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00068.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00069.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00070.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00091.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00092.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00093.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00094.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00095.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00096.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00097.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00098.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock/rock.00099.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00029.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00029.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00030.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00030.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00031.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00031.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00032.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00032.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00033.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00033.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00034.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00034.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00035.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00035.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00036.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00036.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00037.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00037.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00038.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00038.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00039.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00039.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00040.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00040.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00041.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00041.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00042.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00042.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00043.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00043.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00044.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00044.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00045.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00045.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00046.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00046.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00047.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00047.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00048.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00048.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00049.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00049.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00073.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00073.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00074.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00074.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00075.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00075.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00076.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00076.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00077.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00077.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00078.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00078.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00079.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00079.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00080.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00080.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00081.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00081.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00082.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00082.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00083.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00083.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00084.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00084.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00085.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00085.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00086.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00086.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00087.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00087.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00088.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00088.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00089.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00089.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00090.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00090.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00091.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00091.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00092.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00092.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00093.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00093.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00094.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00094.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00095.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00095.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00096.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00096.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues2/blues.00097.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/blues3/blues.00097.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00030.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00030.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00031.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00031.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00032.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00032.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00033.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00033.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00043.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00043.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00044.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00044.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00045.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00045.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00046.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00046.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00047.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00047.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00048.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00048.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00050.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00050.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00051.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00051.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00052.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00052.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00053.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00053.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00054.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00054.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00055.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00055.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00056.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00056.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00057.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00057.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00058.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00058.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00059.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00059.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00060.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00060.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00061.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00061.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00062.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00062.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00063.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00063.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00064.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00064.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00065.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00065.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00066.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00066.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00067.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00067.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00080.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00080.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00081.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00081.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00082.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00082.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00083.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00083.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00084.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00084.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00085.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00085.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00086.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00086.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00087.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00087.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00088.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00088.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00089.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00089.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00090.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00090.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00091.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00091.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00092.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00092.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00093.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00093.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00094.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00094.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00095.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00095.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00096.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00096.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00097.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00097.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00098.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00098.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical2/classical.00099.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/classical3/classical.00099.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00019.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00019.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00020.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00020.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00021.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00021.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00022.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00022.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00023.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00023.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00024.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00024.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00025.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00025.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00026.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00026.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00028.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00028.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00029.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00029.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00065.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00065.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00066.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00066.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00067.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00067.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00068.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00068.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00069.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00069.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00070.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00070.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00071.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00071.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00072.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00072.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00073.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00073.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00074.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00074.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00075.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00075.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00076.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00076.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00077.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00077.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00078.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00078.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00079.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00079.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00080.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00080.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00081.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00081.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00082.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00082.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00083.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00083.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00084.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00084.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00085.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00085.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00086.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00086.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00087.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00087.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00088.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00088.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00089.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00089.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00090.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00090.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00091.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00091.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00092.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00092.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00093.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00093.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00094.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00094.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00095.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00095.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00096.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00096.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00097.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00097.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00098.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00098.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country2/country.00099.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/country3/country.00099.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00005.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00005.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00015.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00015.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00016.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00016.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00017.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00017.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00018.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00018.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00019.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00019.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00020.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00020.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00022.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00022.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00023.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00023.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00024.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00024.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00025.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00025.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00026.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00026.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00027.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00027.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00028.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00028.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00029.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00029.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00030.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00030.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00031.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00031.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00032.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00032.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00033.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00033.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00034.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00034.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00035.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00035.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00036.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00036.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00037.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00037.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00039.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00039.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00040.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00040.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00041.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00041.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00042.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00042.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00043.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00043.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00044.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00044.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00045.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00045.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00047.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00047.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00049.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00049.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00053.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00053.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00054.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00054.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00056.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00056.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00057.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00057.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00059.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00059.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00061.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00061.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00070.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00070.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00073.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00073.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00074.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00074.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco2/disco.00089.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/disco3/disco.00089.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00002.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00002.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00003.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00003.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00004.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00004.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00005.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00005.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00006.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00006.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00007.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00007.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00008.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00008.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00009.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00009.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00010.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00010.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00011.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00011.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00012.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00012.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00013.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00013.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00014.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00014.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00015.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00015.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00016.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00016.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00017.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00017.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00018.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00018.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00019.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00019.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00020.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00020.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00021.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00021.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00022.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00022.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00023.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00023.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00024.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00024.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00025.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00025.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00028.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00028.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00029.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00029.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00031.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00031.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00032.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00032.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00033.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00033.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00034.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00034.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00035.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00035.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00036.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00036.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00037.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00037.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00038.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00038.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00041.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00041.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00042.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00042.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00055.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00055.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00056.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00056.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00057.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00057.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00058.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00058.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00059.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00059.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00060.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00060.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00061.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00061.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00077.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00077.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00078.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00078.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00079.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00079.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop2/hiphop.00080.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/hiphop3/hiphop.00080.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00000.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00000.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00001.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00001.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00011.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00011.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00012.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00012.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00013.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00013.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00014.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00014.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00015.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00015.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00016.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00016.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00017.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00017.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00018.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00018.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00019.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00019.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00020.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00020.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00021.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00021.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00022.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00022.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00023.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00023.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00024.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00024.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00041.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00041.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00047.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00047.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00048.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00048.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00049.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00049.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00050.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00050.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00051.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00051.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00052.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00052.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00053.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00053.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00055.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00055.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00056.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00056.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00057.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00057.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00058.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00058.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00059.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00059.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00060.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00060.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00061.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00061.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00062.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00062.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00063.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00063.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00064.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00064.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00065.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00065.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00066.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00066.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00067.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00067.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00068.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00068.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00069.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00069.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00070.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00070.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00071.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00071.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz2/jazz.00072.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/jazz3/jazz.00072.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00002.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00002.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00003.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00003.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00005.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00005.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00021.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00021.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00024.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00024.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00035.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00035.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00046.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00046.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00047.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00047.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00048.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00048.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00049.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00049.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00050.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00050.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00051.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00051.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00052.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00052.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00053.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00053.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00054.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00054.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00055.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00055.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00056.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00056.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00057.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00057.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00059.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00059.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00060.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00060.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00061.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00061.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00062.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00062.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00063.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00063.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00064.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00064.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00065.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00065.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00066.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00066.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00069.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00069.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00071.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00071.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00072.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00072.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00079.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00079.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00080.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00080.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00084.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00084.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00086.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00086.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00089.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00089.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00090.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00090.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00091.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00091.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00092.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00092.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00093.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00093.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00094.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00094.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00095.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00095.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00096.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00096.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00097.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00097.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00098.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00098.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal2/metal.00099.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/metal3/metal.00099.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00002.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00002.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00003.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00003.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00004.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00004.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00005.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00005.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00006.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00006.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00007.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00007.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00008.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00008.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00009.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00009.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00011.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00011.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00012.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00012.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00016.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00016.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00017.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00017.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00018.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00018.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00019.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00019.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00020.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00020.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00023.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00023.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00024.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00024.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00025.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00025.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00026.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00026.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00027.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00027.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00028.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00028.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00029.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00029.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00031.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00031.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00032.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00032.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00033.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00033.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00034.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00034.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00035.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00035.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00036.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00036.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00038.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00038.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00039.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00039.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00040.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00040.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00041.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00041.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00042.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00042.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00044.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00044.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00046.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00046.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00049.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00049.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00050.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00050.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00080.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00080.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00097.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00097.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00098.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00098.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop2/pop.00099.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/pop3/pop.00099.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00000.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00000.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00001.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00001.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00002.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00002.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00004.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00004.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00006.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00006.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00009.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00009.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00011.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00011.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00012.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00012.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00014.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00014.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00015.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00015.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00016.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00016.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00017.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00017.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00018.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00018.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00019.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00019.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00020.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00020.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00021.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00021.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00022.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00022.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00023.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00023.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00024.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00024.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00025.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00025.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00026.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00026.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00027.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00027.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00028.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00028.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00029.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00029.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00030.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00030.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00031.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00031.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00032.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00032.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00042.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00042.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00043.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00043.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00044.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00044.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00045.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00045.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00049.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00049.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00050.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00050.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00051.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00051.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00054.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00054.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00055.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00055.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00056.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00056.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00057.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00057.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00058.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00058.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00059.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00059.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00060.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00060.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00063.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00063.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae2/reggae.00069.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/reggae3/reggae.00069.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00000.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00000.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00001.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00001.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00002.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00002.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00003.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00003.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00004.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00004.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00005.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00005.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00006.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00006.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00007.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00007.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00008.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00008.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00009.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00009.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00016.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00016.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00017.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00017.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00018.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00018.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00019.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00019.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00020.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00020.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00021.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00021.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00022.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00022.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00023.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00023.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00024.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00024.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00025.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00025.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00026.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00026.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00057.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00057.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00058.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00058.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00059.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00059.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00060.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00060.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00061.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00061.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00062.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00062.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00063.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00063.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00064.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00064.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00065.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00065.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00066.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00066.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00067.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00067.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00068.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00068.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00069.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00069.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00070.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00070.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00091.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00091.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00092.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00092.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00093.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00093.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00094.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00094.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00095.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00095.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00096.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00096.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00097.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00097.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00098.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00098.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock2/rock.00099.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/ast/data/data/GTZAN/Data/rock3/rock.00099.wav",
+   "labels": "/m/gtzan09"
+  }
+ ]
+}
