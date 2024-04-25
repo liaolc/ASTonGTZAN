@@ -16,7 +16,7 @@ import dataloader
 audio_conf = {'num_mel_bins': 128, 'target_length': 1024, 'freqm': 24, 'timem': 192, 'mixup': 0.5, 'skip_norm': True, 'mode': 'train', 'dataset': 'audioset'}
 
 train_loader = torch.utils.data.DataLoader(
-    dataloader.AudiosetDataset('/data/sls/scratch/yuangong/audioset/datafiles/balanced_train_data.json', label_csv='/data/sls/scratch/yuangong/audioset/utilities/class_labels_indices.csv',
+    dataloader.AudiosetDataset('/content/drive/MyDrive/ASTonGTZAN-main/egs/GTZAN/data/GTZAN_train_data.json', label_csv='/content/drive/MyDrive/ASTonGTZAN-main/egs/GTZAN/data/GTZAN_class_labels_indices.csv',
                                 audio_conf=audio_conf), batch_size=1000, shuffle=False, num_workers=8, pin_memory=True)
 mean=[]
 std=[]

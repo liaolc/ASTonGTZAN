@@ -178,13 +178,8 @@ class ASTModel(nn.Module):
         x = torch.cat((cls_tokens, dist_token, x), dim=1)
         x = x + self.v.pos_embed
         x = self.v.pos_drop(x)
-        count = 0
         for blk in self.v.blocks:
-            count += 1
-            #print(blk)
-            if count < 5:
-                for param in blk.parameters():
-                    param.requires_grad = False
+            print(blk)
             x = blk(x)
 
         x = self.v.norm(x)

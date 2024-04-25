@@ -20,18 +20,18 @@ dataset=GTZAN
 imagenetpretrain=True
 audiosetpretrain=True
 bal=none
-lr=1e-4
+lr=1e-5
 epoch=10
 freqm=48
 timem=200
-mixup=0.7
+mixup=0.5
 batch_size=8
 fstride=10
 tstride=10
 
-#-2.0282807 2.8594136
-dataset_mean=-2.0282807
-dataset_std=2.8594136
+# -2.1041079 2.9942446
+dataset_mean=-2.1041079
+dataset_std=2.9942446
 audio_length=1024
 noise=False
 
@@ -41,7 +41,7 @@ warmup=True
 wa=True
 lrscheduler_start=5
 lrscheduler_step=1
-lrscheduler_decay=0.5
+lrscheduler_decay=0.85
 
 
 #+ tr_data=/content/drive/MyDrive/Rana_Draytonii/Rana7/train_data.json
