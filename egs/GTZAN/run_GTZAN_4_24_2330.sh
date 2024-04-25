@@ -18,14 +18,14 @@ export TORCH_HOME=../../pretrained_models
 model=ast
 dataset=GTZAN
 imagenetpretrain=True
-audiosetpretrain=True
+audiosetpretrain=False
 bal=none
 lr=1e-4
 epoch=10
 freqm=48
 timem=200
 mixup=0.7
-batch_size=12
+batch_size=8
 fstride=10
 tstride=10
 
