@@ -18,14 +18,14 @@ export TORCH_HOME=../../pretrained_models
 model=ast
 dataset=GTZAN
 imagenetpretrain=True
-audiosetpretrain=False
+audiosetpretrain=True
 bal=none
-lr=5e-5
+lr=1e-4
 epoch=10
 freqm=48
 timem=200
 mixup=0.6
-batch_size=4
+batch_size=12
 fstride=10
 tstride=10
 
@@ -38,9 +38,9 @@ metrics=acc
 loss=BCE
 warmup=True
 wa=True
-lrscheduler_start=8
+lrscheduler_start=5
 lrscheduler_step=1
-lrscheduler_decay=0.85
+lrscheduler_decay=0.5
 
 
 #+ tr_data=/content/drive/MyDrive/Rana_Draytonii/Rana7/train_data.json
