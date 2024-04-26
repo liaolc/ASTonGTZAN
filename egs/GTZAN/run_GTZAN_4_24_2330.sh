@@ -33,12 +33,12 @@ tstride=10
 dataset_mean=-3.7041707
 dataset_std=3.2726912
 audio_length=1024
-noise=True
+noise=False
 
 metrics=acc
 loss=BCE
 warmup=True
-wa=False
+wa=True
 lrscheduler_start=5
 lrscheduler_step=1
 lrscheduler_decay=0.75
