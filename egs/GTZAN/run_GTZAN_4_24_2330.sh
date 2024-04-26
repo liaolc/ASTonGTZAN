@@ -20,7 +20,7 @@ dataset=GTZAN
 imagenetpretrain=True
 audiosetpretrain=True
 bal=none
-lr=2.5e-6
+lr=5.5e-6
 epoch=10
 freqm=48
 timem=192
@@ -36,7 +36,7 @@ audio_length=1024
 noise=False
 
 metrics=acc
-loss=BCE
+loss=CE
 warmup=True
 wa=True
 lrscheduler_start=5

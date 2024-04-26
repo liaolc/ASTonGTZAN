@@ -203,7 +203,7 @@ def train(audio_model, train_loader, test_loader, args):
             result[epoch-1, :] = [acc, mAUC, average_precision, average_recall, d_prime(mAUC), loss_meter.avg, valid_loss, cum_acc, cum_mAUC, optimizer.param_groups[0]['lr']]
         np.savetxt(exp_dir + '/result.csv', result, delimiter=',')
         print('validation finished')
-        print('With blocks 1-4 Frozen')
+        #print('With blocks 1-8 Frozen')
 
         if mAP > best_mAP:
             best_mAP = mAP
