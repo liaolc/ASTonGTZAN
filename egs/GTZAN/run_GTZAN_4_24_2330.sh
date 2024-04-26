@@ -30,7 +30,7 @@ fstride=10
 tstride=10
 
 # -2.1041079 2.9942446
-dataset_mean=-3.7041707
+dataset_mean=-2.2568474
 dataset_std=3.2726912
 audio_length=1024
 noise=False
