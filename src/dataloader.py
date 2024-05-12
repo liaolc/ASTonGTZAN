@@ -186,7 +186,7 @@ class AudiosetDataset(Dataset):
 
 
 
-        # SpecAug, not do for eval set
+        # SpecAug -- freqm & timem specified in run.py, set to 0 for eval set. 
         freqm = torchaudio.transforms.FrequencyMasking(self.freqm)
         timem = torchaudio.transforms.TimeMasking(self.timem)
         fbank = torch.transpose(fbank, 0, 1)
