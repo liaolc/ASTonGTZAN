@@ -162,9 +162,9 @@ if args.dataset == 'speechcommands':
 eval_loader = torch.utils.data.DataLoader(
     dataloader.AudiosetDataset(args.data_eval, label_csv=args.label_csv, audio_conf=val_audio_conf),
     batch_size=args.batch_size*2, shuffle=False, num_workers=args.num_workers, pin_memory=True)
-evaluate_acc = evaluate(audio_model, eval_loader, args, 'eval_set')
-evaluate_acc = stats[0]['acc']
-eval_mAUC = np.mean([stat['auc'] for stat in stats])
+evaluate_acc = evaluate(audio_model, eval_loader)
+#evaluate_acc = stats[0]['acc']
+#eval_mAUC = np.mean([stat['auc'] for stat in stats])
 print('---------------evaluate on the test set---------------')
 print("Accuracy: {:.6f}".format(evaluate_acc))
 np.savetxt(args.exp_dir + '/eval_result.csv', [evaluate_acc]) # prob won't work -- i'll rely on log.txt for eval results
