@@ -12,6 +12,7 @@ import pickle
 import sys
 import time
 import torch
+import wget
 from torch.utils.data import WeightedRandomSampler
 basepath = os.path.dirname(os.path.dirname(sys.path[0]))
 sys.path.append(basepath)
@@ -159,9 +160,24 @@ if args.dataset == 'speechcommands':
     print("AUC: {:.6f}".format(val_mAUC))
 
     # test the model on the evaluation set
+
+print("downloading best_model for testing eval: ")
+sc_url = 'https://www.dropbox.com/scl/fi/dz3hl8s3bgy93k67c139y/Freeze1-8_15epoch.pth?rlkey=xpsbwcwxmmontviwug6ccqaoj&st=l2otxs01&dl=1'
+wget.download('sc_url', out='./pretrained_models/')
+
+
+checkpoint_path = './pretrained_models/Freeze1-8_15epoch.pth'
 eval_loader = torch.utils.data.DataLoader(
     dataloader.AudiosetDataset(args.data_eval, label_csv=args.label_csv, audio_conf=val_audio_conf),
     batch_size=args.batch_size*2, shuffle=False, num_workers=args.num_workers, pin_memory=True)
+model = models.ASTModel(label_dim=10, fstride=10, tstride=10, input_fdim = 128, input_tdim = 1024, imagenet_pretrain=False, audioset_pretrain=False, model_size='base384')
+print('loading weights...')
+checkpoint = torch.load(checkpoint_path, map_location='cpu')
+audio_model = torch.nn.DataParallel(model, device_ids=[0])
+audio_model.load_state_dict(checkpoint)
+audio_model = audio_model.to(torch.device("cpu"))
+audio_model.eval()
+print("model finished loading")
 evaluate_acc = evaluate(audio_model, eval_loader)
 #evaluate_acc = stats[0]['acc']
 #eval_mAUC = np.mean([stat['auc'] for stat in stats])
