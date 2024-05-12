@@ -2353,8 +2353,16 @@
    "labels": "/m/gtzan09"
   },
   {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00085.wavrock2/rock.00085.wavrock3/rock.00085.wav",
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00085.wav",
    "labels": "/m/gtzan09"
-  }
+  },
+  {
+    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock2/rock.00085.wav",
+    "labels": "/m/gtzan09"
+   },
+   {
+    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock3/rock.00085.wav",
+    "labels": "/m/gtzan09"
+   }
  ]
 }

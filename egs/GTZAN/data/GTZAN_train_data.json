@@ -5305,8 +5305,16 @@
    "labels": "/m/gtzan09"
   },
   {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00099.wavrock2/rock.00099.wavrock3/rock.00099.wav",
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00099.wav",
    "labels": "/m/gtzan09"
-  }
+  },
+  {
+    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock2/rock.00099.wav",
+    "labels": "/m/gtzan09"
+   },
+   {
+    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock3/rock.00099.wav",
+    "labels": "/m/gtzan09"
+   }
  ]
 }
