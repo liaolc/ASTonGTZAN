@@ -18,7 +18,7 @@ sys.path.append(basepath)
 import dataloader
 import models
 import numpy as np
-from traintest import train, validate
+from traintest import train, validate, evaluate
 
 print("I am process %s, running on %s: starting (%s)" % (os.getpid(), os.uname()[1], time.asctime()))
 
@@ -162,11 +162,12 @@ if args.dataset == 'speechcommands':
 eval_loader = torch.utils.data.DataLoader(
     dataloader.AudiosetDataset(args.data_eval, label_csv=args.label_csv, audio_conf=val_audio_conf),
     batch_size=args.batch_size*2, shuffle=False, num_workers=args.num_workers, pin_memory=True)
-stats, _ = validate(audio_model, eval_loader, args, 'eval_set')
-eval_acc = stats[0]['acc']
+evaluate_acc = evaluate(audio_model, eval_loader, args, 'eval_set')
+evaluate_acc = stats[0]['acc']
 eval_mAUC = np.mean([stat['auc'] for stat in stats])
 print('---------------evaluate on the test set---------------')
-print("Accuracy: {:.6f}".format(eval_acc))
-print("AUC: {:.6f}".format(eval_mAUC))
-np.savetxt(args.exp_dir + '/eval_result.csv', [val_acc, val_mAUC, eval_acc, eval_mAUC])
+print("Accuracy: {:.6f}".format(evaluate_acc))
+np.savetxt(args.exp_dir + '/eval_result.csv', [evaluate_acc]) # prob won't work -- i'll rely on log.txt for eval results
+#print("AUC: {:.6f}".format(eval_mAUC))
+#np.savetxt(args.exp_dir + '/eval_result.csv', [val_acc, val_mAUC, eval_acc, eval_mAUC])
 

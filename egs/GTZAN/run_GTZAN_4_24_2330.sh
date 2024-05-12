@@ -20,12 +20,12 @@ dataset=GTZAN
 imagenetpretrain=True
 audiosetpretrain=True
 bal=none
-lr=5.5e-6
+lr=5.5e-5
 epoch=10
 freqm=48
 timem=192
 mixup=0
-batch_size=10
+batch_size=3
 fstride=10
 tstride=10
 

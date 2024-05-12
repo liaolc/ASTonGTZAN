@@ -25,7 +25,7 @@ epoch=10
 freqm=48
 timem=48
 mixup=0.6
-batch_size=4
+batch_size=3
 fstride=10
 tstride=10
 

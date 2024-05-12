@@ -185,6 +185,7 @@ class ASTModel(nn.Module):
             if count < 9:
                 for param in blk.parameters():
                     param.requires_grad = False
+                
             x = blk(x)
 
         x = self.v.norm(x)
