@@ -5,795 +5,15 @@
    "labels": "/m/gtzan00"
   },
   {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00001.wav",
-   "labels": "/m/gtzan00"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00002.wav",
-   "labels": "/m/gtzan00"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00003.wav",
-   "labels": "/m/gtzan00"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00004.wav",
-   "labels": "/m/gtzan00"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00005.wav",
-   "labels": "/m/gtzan00"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00006.wav",
-   "labels": "/m/gtzan00"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00007.wav",
-   "labels": "/m/gtzan00"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00008.wav",
-   "labels": "/m/gtzan00"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00009.wav",
-   "labels": "/m/gtzan00"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00010.wav",
-   "labels": "/m/gtzan00"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00011.wav",
-   "labels": "/m/gtzan00"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00050.wav",
-   "labels": "/m/gtzan00"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00051.wav",
-   "labels": "/m/gtzan00"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00052.wav",
-   "labels": "/m/gtzan00"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00053.wav",
-   "labels": "/m/gtzan00"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00054.wav",
-   "labels": "/m/gtzan00"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00055.wav",
-   "labels": "/m/gtzan00"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00056.wav",
-   "labels": "/m/gtzan00"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00057.wav",
-   "labels": "/m/gtzan00"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00058.wav",
-   "labels": "/m/gtzan00"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00059.wav",
-   "labels": "/m/gtzan00"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00060.wav",
-   "labels": "/m/gtzan00"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00000.wav",
-   "labels": "/m/gtzan01"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00001.wav",
-   "labels": "/m/gtzan01"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00002.wav",
-   "labels": "/m/gtzan01"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00003.wav",
-   "labels": "/m/gtzan01"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00004.wav",
-   "labels": "/m/gtzan01"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00005.wav",
-   "labels": "/m/gtzan01"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00006.wav",
-   "labels": "/m/gtzan01"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00007.wav",
-   "labels": "/m/gtzan01"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00008.wav",
-   "labels": "/m/gtzan01"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00009.wav",
-   "labels": "/m/gtzan01"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00010.wav",
-   "labels": "/m/gtzan01"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00068.wav",
-   "labels": "/m/gtzan01"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00069.wav",
-   "labels": "/m/gtzan01"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00070.wav",
-   "labels": "/m/gtzan01"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00071.wav",
-   "labels": "/m/gtzan01"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00072.wav",
-   "labels": "/m/gtzan01"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00073.wav",
-   "labels": "/m/gtzan01"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00074.wav",
-   "labels": "/m/gtzan01"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00075.wav",
-   "labels": "/m/gtzan01"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00076.wav",
-   "labels": "/m/gtzan01"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00000.wav",
-   "labels": "/m/gtzan02"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00001.wav",
-   "labels": "/m/gtzan02"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00002.wav",
-   "labels": "/m/gtzan02"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00003.wav",
-   "labels": "/m/gtzan02"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00004.wav",
-   "labels": "/m/gtzan02"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00005.wav",
-   "labels": "/m/gtzan02"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00006.wav",
-   "labels": "/m/gtzan02"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00007.wav",
-   "labels": "/m/gtzan02"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00009.wav",
-   "labels": "/m/gtzan02"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00010.wav",
-   "labels": "/m/gtzan02"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00011.wav",
-   "labels": "/m/gtzan02"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00012.wav",
-   "labels": "/m/gtzan02"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00013.wav",
-   "labels": "/m/gtzan02"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00014.wav",
-   "labels": "/m/gtzan02"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00015.wav",
-   "labels": "/m/gtzan02"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00016.wav",
-   "labels": "/m/gtzan02"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00017.wav",
-   "labels": "/m/gtzan02"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00018.wav",
-   "labels": "/m/gtzan02"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00027.wav",
-   "labels": "/m/gtzan02"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00041.wav",
-   "labels": "/m/gtzan02"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00042.wav",
-   "labels": "/m/gtzan02"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00045.wav",
-   "labels": "/m/gtzan02"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00049.wav",
-   "labels": "/m/gtzan02"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00000.wav",
-   "labels": "/m/gtzan03"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00002.wav",
-   "labels": "/m/gtzan03"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00003.wav",
-   "labels": "/m/gtzan03"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00004.wav",
-   "labels": "/m/gtzan03"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00006.wav",
-   "labels": "/m/gtzan03"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00007.wav",
-   "labels": "/m/gtzan03"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00008.wav",
-   "labels": "/m/gtzan03"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00009.wav",
-   "labels": "/m/gtzan03"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00010.wav",
-   "labels": "/m/gtzan03"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00011.wav",
-   "labels": "/m/gtzan03"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00012.wav",
-   "labels": "/m/gtzan03"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00013.wav",
-   "labels": "/m/gtzan03"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00014.wav",
-   "labels": "/m/gtzan03"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00046.wav",
-   "labels": "/m/gtzan03"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00048.wav",
-   "labels": "/m/gtzan03"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00052.wav",
-   "labels": "/m/gtzan03"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00067.wav",
-   "labels": "/m/gtzan03"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00068.wav",
-   "labels": "/m/gtzan03"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00072.wav",
-   "labels": "/m/gtzan03"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00075.wav",
-   "labels": "/m/gtzan03"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00090.wav",
-   "labels": "/m/gtzan03"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00095.wav",
-   "labels": "/m/gtzan03"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00081.wav",
-   "labels": "/m/gtzan04"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00082.wav",
-   "labels": "/m/gtzan04"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00083.wav",
-   "labels": "/m/gtzan04"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00084.wav",
-   "labels": "/m/gtzan04"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00085.wav",
-   "labels": "/m/gtzan04"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00086.wav",
-   "labels": "/m/gtzan04"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00087.wav",
-   "labels": "/m/gtzan04"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00088.wav",
-   "labels": "/m/gtzan04"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00089.wav",
-   "labels": "/m/gtzan04"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00090.wav",
-   "labels": "/m/gtzan04"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00091.wav",
-   "labels": "/m/gtzan04"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00092.wav",
-   "labels": "/m/gtzan04"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00093.wav",
-   "labels": "/m/gtzan04"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00094.wav",
-   "labels": "/m/gtzan04"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00095.wav",
-   "labels": "/m/gtzan04"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00096.wav",
-   "labels": "/m/gtzan04"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00097.wav",
-   "labels": "/m/gtzan04"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00098.wav",
-   "labels": "/m/gtzan04"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00002.wav",
-   "labels": "/m/gtzan05"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00003.wav",
-   "labels": "/m/gtzan05"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00004.wav",
-   "labels": "/m/gtzan05"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00005.wav",
-   "labels": "/m/gtzan05"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00006.wav",
-   "labels": "/m/gtzan05"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00007.wav",
-   "labels": "/m/gtzan05"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00008.wav",
-   "labels": "/m/gtzan05"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00009.wav",
-   "labels": "/m/gtzan05"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00010.wav",
-   "labels": "/m/gtzan05"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00025.wav",
-   "labels": "/m/gtzan05"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00026.wav",
-   "labels": "/m/gtzan05"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00027.wav",
-   "labels": "/m/gtzan05"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00028.wav",
-   "labels": "/m/gtzan05"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00029.wav",
-   "labels": "/m/gtzan05"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00030.wav",
-   "labels": "/m/gtzan05"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00031.wav",
-   "labels": "/m/gtzan05"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00032.wav",
-   "labels": "/m/gtzan05"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00000.wav",
-   "labels": "/m/gtzan06"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00001.wav",
-   "labels": "/m/gtzan06"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00006.wav",
-   "labels": "/m/gtzan06"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00007.wav",
-   "labels": "/m/gtzan06"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00008.wav",
-   "labels": "/m/gtzan06"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00009.wav",
-   "labels": "/m/gtzan06"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00010.wav",
-   "labels": "/m/gtzan06"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00011.wav",
-   "labels": "/m/gtzan06"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00016.wav",
-   "labels": "/m/gtzan06"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00017.wav",
-   "labels": "/m/gtzan06"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00018.wav",
-   "labels": "/m/gtzan06"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00019.wav",
-   "labels": "/m/gtzan06"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00020.wav",
-   "labels": "/m/gtzan06"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00036.wav",
-   "labels": "/m/gtzan06"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00037.wav",
-   "labels": "/m/gtzan06"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00068.wav",
-   "labels": "/m/gtzan06"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00076.wav",
-   "labels": "/m/gtzan06"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00077.wav",
-   "labels": "/m/gtzan06"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00081.wav",
-   "labels": "/m/gtzan06"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00082.wav",
-   "labels": "/m/gtzan06"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00010.wav",
-   "labels": "/m/gtzan07"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00053.wav",
-   "labels": "/m/gtzan07"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00055.wav",
-   "labels": "/m/gtzan07"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00058.wav",
-   "labels": "/m/gtzan07"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00059.wav",
-   "labels": "/m/gtzan07"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00060.wav",
-   "labels": "/m/gtzan07"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00061.wav",
-   "labels": "/m/gtzan07"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00062.wav",
-   "labels": "/m/gtzan07"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00081.wav",
-   "labels": "/m/gtzan07"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00083.wav",
-   "labels": "/m/gtzan07"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00084.wav",
-   "labels": "/m/gtzan07"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00085.wav",
-   "labels": "/m/gtzan07"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00086.wav",
-   "labels": "/m/gtzan07"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00061.wav",
-   "labels": "/m/gtzan08"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00062.wav",
-   "labels": "/m/gtzan08"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00070.wav",
-   "labels": "/m/gtzan08"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00072.wav",
-   "labels": "/m/gtzan08"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00074.wav",
-   "labels": "/m/gtzan08"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00076.wav",
-   "labels": "/m/gtzan08"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00077.wav",
-   "labels": "/m/gtzan08"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00078.wav",
-   "labels": "/m/gtzan08"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00085.wav",
-   "labels": "/m/gtzan08"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00092.wav",
-   "labels": "/m/gtzan08"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00093.wav",
-   "labels": "/m/gtzan08"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00094.wav",
-   "labels": "/m/gtzan08"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00095.wav",
-   "labels": "/m/gtzan08"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00096.wav",
-   "labels": "/m/gtzan08"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00097.wav",
-   "labels": "/m/gtzan08"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00098.wav",
-   "labels": "/m/gtzan08"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00099.wav",
-   "labels": "/m/gtzan08"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00038.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00049.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00050.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00051.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00052.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00053.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00054.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00055.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00056.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00071.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00072.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00073.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00074.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00075.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00076.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00077.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00078.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00079.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00080.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00081.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00082.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00083.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00084.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00085.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues2/blues.00000.wav",
    "labels": "/m/gtzan00"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues3/blues.00000.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00001.wav",
    "labels": "/m/gtzan00"
   },
   {
@@ -805,11 +25,19 @@
    "labels": "/m/gtzan00"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00002.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues2/blues.00002.wav",
    "labels": "/m/gtzan00"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues3/blues.00002.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00003.wav",
    "labels": "/m/gtzan00"
   },
   {
@@ -821,11 +49,19 @@
    "labels": "/m/gtzan00"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00004.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues2/blues.00004.wav",
    "labels": "/m/gtzan00"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues3/blues.00004.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00005.wav",
    "labels": "/m/gtzan00"
   },
   {
@@ -837,11 +73,19 @@
    "labels": "/m/gtzan00"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00006.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues2/blues.00006.wav",
    "labels": "/m/gtzan00"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues3/blues.00006.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00007.wav",
    "labels": "/m/gtzan00"
   },
   {
@@ -853,11 +97,19 @@
    "labels": "/m/gtzan00"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00008.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues2/blues.00008.wav",
    "labels": "/m/gtzan00"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues3/blues.00008.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00009.wav",
    "labels": "/m/gtzan00"
   },
   {
@@ -869,11 +121,19 @@
    "labels": "/m/gtzan00"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00010.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues2/blues.00010.wav",
    "labels": "/m/gtzan00"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues3/blues.00010.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00011.wav",
    "labels": "/m/gtzan00"
   },
   {
@@ -885,11 +145,19 @@
    "labels": "/m/gtzan00"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00050.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues2/blues.00050.wav",
    "labels": "/m/gtzan00"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues3/blues.00050.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00051.wav",
    "labels": "/m/gtzan00"
   },
   {
@@ -901,11 +169,19 @@
    "labels": "/m/gtzan00"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00052.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues2/blues.00052.wav",
    "labels": "/m/gtzan00"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues3/blues.00052.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00053.wav",
    "labels": "/m/gtzan00"
   },
   {
@@ -917,11 +193,19 @@
    "labels": "/m/gtzan00"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00054.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues2/blues.00054.wav",
    "labels": "/m/gtzan00"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues3/blues.00054.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00055.wav",
    "labels": "/m/gtzan00"
   },
   {
@@ -933,11 +217,19 @@
    "labels": "/m/gtzan00"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00056.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues2/blues.00056.wav",
    "labels": "/m/gtzan00"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues3/blues.00056.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00057.wav",
    "labels": "/m/gtzan00"
   },
   {
@@ -949,11 +241,19 @@
    "labels": "/m/gtzan00"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00058.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues2/blues.00058.wav",
    "labels": "/m/gtzan00"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues3/blues.00058.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00059.wav",
    "labels": "/m/gtzan00"
   },
   {
@@ -965,6 +265,10 @@
    "labels": "/m/gtzan00"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues/blues.00060.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/blues2/blues.00060.wav",
    "labels": "/m/gtzan00"
   },
@@ -973,11 +277,19 @@
    "labels": "/m/gtzan00"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00000.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical2/classical.00000.wav",
    "labels": "/m/gtzan01"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical3/classical.00000.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00001.wav",
    "labels": "/m/gtzan01"
   },
   {
@@ -989,11 +301,19 @@
    "labels": "/m/gtzan01"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00002.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical2/classical.00002.wav",
    "labels": "/m/gtzan01"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical3/classical.00002.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00003.wav",
    "labels": "/m/gtzan01"
   },
   {
@@ -1005,11 +325,19 @@
    "labels": "/m/gtzan01"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00004.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical2/classical.00004.wav",
    "labels": "/m/gtzan01"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical3/classical.00004.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00005.wav",
    "labels": "/m/gtzan01"
   },
   {
@@ -1021,11 +349,19 @@
    "labels": "/m/gtzan01"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00006.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical2/classical.00006.wav",
    "labels": "/m/gtzan01"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical3/classical.00006.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00007.wav",
    "labels": "/m/gtzan01"
   },
   {
@@ -1037,11 +373,19 @@
    "labels": "/m/gtzan01"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00008.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical2/classical.00008.wav",
    "labels": "/m/gtzan01"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical3/classical.00008.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00009.wav",
    "labels": "/m/gtzan01"
   },
   {
@@ -1053,11 +397,19 @@
    "labels": "/m/gtzan01"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00010.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical2/classical.00010.wav",
    "labels": "/m/gtzan01"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical3/classical.00010.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00068.wav",
    "labels": "/m/gtzan01"
   },
   {
@@ -1069,11 +421,19 @@
    "labels": "/m/gtzan01"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00069.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical2/classical.00069.wav",
    "labels": "/m/gtzan01"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical3/classical.00069.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00070.wav",
    "labels": "/m/gtzan01"
   },
   {
@@ -1085,11 +445,19 @@
    "labels": "/m/gtzan01"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00071.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical2/classical.00071.wav",
    "labels": "/m/gtzan01"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical3/classical.00071.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00072.wav",
    "labels": "/m/gtzan01"
   },
   {
@@ -1101,11 +469,19 @@
    "labels": "/m/gtzan01"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00073.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical2/classical.00073.wav",
    "labels": "/m/gtzan01"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical3/classical.00073.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00074.wav",
    "labels": "/m/gtzan01"
   },
   {
@@ -1117,11 +493,19 @@
    "labels": "/m/gtzan01"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00075.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical2/classical.00075.wav",
    "labels": "/m/gtzan01"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical3/classical.00075.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/classical/classical.00076.wav",
    "labels": "/m/gtzan01"
   },
   {
@@ -1133,11 +517,19 @@
    "labels": "/m/gtzan01"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00000.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country2/country.00000.wav",
    "labels": "/m/gtzan02"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country3/country.00000.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00001.wav",
    "labels": "/m/gtzan02"
   },
   {
@@ -1149,11 +541,19 @@
    "labels": "/m/gtzan02"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00002.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country2/country.00002.wav",
    "labels": "/m/gtzan02"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country3/country.00002.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00003.wav",
    "labels": "/m/gtzan02"
   },
   {
@@ -1165,11 +565,19 @@
    "labels": "/m/gtzan02"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00004.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country2/country.00004.wav",
    "labels": "/m/gtzan02"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country3/country.00004.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00005.wav",
    "labels": "/m/gtzan02"
   },
   {
@@ -1181,11 +589,19 @@
    "labels": "/m/gtzan02"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00006.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country2/country.00006.wav",
    "labels": "/m/gtzan02"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country3/country.00006.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00007.wav",
    "labels": "/m/gtzan02"
   },
   {
@@ -1197,11 +613,19 @@
    "labels": "/m/gtzan02"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00009.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country2/country.00009.wav",
    "labels": "/m/gtzan02"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country3/country.00009.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00010.wav",
    "labels": "/m/gtzan02"
   },
   {
@@ -1213,11 +637,19 @@
    "labels": "/m/gtzan02"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00011.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country2/country.00011.wav",
    "labels": "/m/gtzan02"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country3/country.00011.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00012.wav",
    "labels": "/m/gtzan02"
   },
   {
@@ -1229,11 +661,19 @@
    "labels": "/m/gtzan02"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00013.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country2/country.00013.wav",
    "labels": "/m/gtzan02"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country3/country.00013.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00014.wav",
    "labels": "/m/gtzan02"
   },
   {
@@ -1245,11 +685,19 @@
    "labels": "/m/gtzan02"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00015.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country2/country.00015.wav",
    "labels": "/m/gtzan02"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country3/country.00015.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00016.wav",
    "labels": "/m/gtzan02"
   },
   {
@@ -1261,11 +709,19 @@
    "labels": "/m/gtzan02"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00017.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country2/country.00017.wav",
    "labels": "/m/gtzan02"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country3/country.00017.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00018.wav",
    "labels": "/m/gtzan02"
   },
   {
@@ -1277,11 +733,19 @@
    "labels": "/m/gtzan02"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00027.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country2/country.00027.wav",
    "labels": "/m/gtzan02"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country3/country.00027.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00041.wav",
    "labels": "/m/gtzan02"
   },
   {
@@ -1293,11 +757,19 @@
    "labels": "/m/gtzan02"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00042.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country2/country.00042.wav",
    "labels": "/m/gtzan02"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country3/country.00042.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00045.wav",
    "labels": "/m/gtzan02"
   },
   {
@@ -1309,6 +781,10 @@
    "labels": "/m/gtzan02"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country/country.00049.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/country2/country.00049.wav",
    "labels": "/m/gtzan02"
   },
@@ -1317,11 +793,19 @@
    "labels": "/m/gtzan02"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00000.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco2/disco.00000.wav",
    "labels": "/m/gtzan03"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco3/disco.00000.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00002.wav",
    "labels": "/m/gtzan03"
   },
   {
@@ -1333,11 +817,19 @@
    "labels": "/m/gtzan03"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00003.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco2/disco.00003.wav",
    "labels": "/m/gtzan03"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco3/disco.00003.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00004.wav",
    "labels": "/m/gtzan03"
   },
   {
@@ -1349,11 +841,19 @@
    "labels": "/m/gtzan03"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00006.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco2/disco.00006.wav",
    "labels": "/m/gtzan03"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco3/disco.00006.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00007.wav",
    "labels": "/m/gtzan03"
   },
   {
@@ -1365,11 +865,19 @@
    "labels": "/m/gtzan03"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00008.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco2/disco.00008.wav",
    "labels": "/m/gtzan03"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco3/disco.00008.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00009.wav",
    "labels": "/m/gtzan03"
   },
   {
@@ -1381,11 +889,19 @@
    "labels": "/m/gtzan03"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00010.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco2/disco.00010.wav",
    "labels": "/m/gtzan03"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco3/disco.00010.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00011.wav",
    "labels": "/m/gtzan03"
   },
   {
@@ -1397,11 +913,19 @@
    "labels": "/m/gtzan03"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00012.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco2/disco.00012.wav",
    "labels": "/m/gtzan03"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco3/disco.00012.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00013.wav",
    "labels": "/m/gtzan03"
   },
   {
@@ -1413,11 +937,19 @@
    "labels": "/m/gtzan03"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00014.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco2/disco.00014.wav",
    "labels": "/m/gtzan03"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco3/disco.00014.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00046.wav",
    "labels": "/m/gtzan03"
   },
   {
@@ -1429,11 +961,19 @@
    "labels": "/m/gtzan03"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00048.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco2/disco.00048.wav",
    "labels": "/m/gtzan03"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco3/disco.00048.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00052.wav",
    "labels": "/m/gtzan03"
   },
   {
@@ -1445,11 +985,19 @@
    "labels": "/m/gtzan03"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00067.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco2/disco.00067.wav",
    "labels": "/m/gtzan03"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco3/disco.00067.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00068.wav",
    "labels": "/m/gtzan03"
   },
   {
@@ -1461,11 +1009,19 @@
    "labels": "/m/gtzan03"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00072.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco2/disco.00072.wav",
    "labels": "/m/gtzan03"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco3/disco.00072.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00075.wav",
    "labels": "/m/gtzan03"
   },
   {
@@ -1477,11 +1033,19 @@
    "labels": "/m/gtzan03"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00090.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco2/disco.00090.wav",
    "labels": "/m/gtzan03"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco3/disco.00090.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/disco/disco.00095.wav",
    "labels": "/m/gtzan03"
   },
   {
@@ -1493,11 +1057,19 @@
    "labels": "/m/gtzan03"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00081.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop2/hiphop.00081.wav",
    "labels": "/m/gtzan04"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop3/hiphop.00081.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00082.wav",
    "labels": "/m/gtzan04"
   },
   {
@@ -1509,11 +1081,19 @@
    "labels": "/m/gtzan04"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00083.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop2/hiphop.00083.wav",
    "labels": "/m/gtzan04"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop3/hiphop.00083.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00084.wav",
    "labels": "/m/gtzan04"
   },
   {
@@ -1525,11 +1105,19 @@
    "labels": "/m/gtzan04"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00085.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop2/hiphop.00085.wav",
    "labels": "/m/gtzan04"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop3/hiphop.00085.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00086.wav",
    "labels": "/m/gtzan04"
   },
   {
@@ -1541,11 +1129,19 @@
    "labels": "/m/gtzan04"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00087.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop2/hiphop.00087.wav",
    "labels": "/m/gtzan04"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop3/hiphop.00087.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00088.wav",
    "labels": "/m/gtzan04"
   },
   {
@@ -1557,11 +1153,19 @@
    "labels": "/m/gtzan04"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00089.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop2/hiphop.00089.wav",
    "labels": "/m/gtzan04"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop3/hiphop.00089.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00090.wav",
    "labels": "/m/gtzan04"
   },
   {
@@ -1573,11 +1177,19 @@
    "labels": "/m/gtzan04"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00091.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop2/hiphop.00091.wav",
    "labels": "/m/gtzan04"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop3/hiphop.00091.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00092.wav",
    "labels": "/m/gtzan04"
   },
   {
@@ -1589,11 +1201,19 @@
    "labels": "/m/gtzan04"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00093.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop2/hiphop.00093.wav",
    "labels": "/m/gtzan04"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop3/hiphop.00093.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00094.wav",
    "labels": "/m/gtzan04"
   },
   {
@@ -1605,11 +1225,19 @@
    "labels": "/m/gtzan04"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00095.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop2/hiphop.00095.wav",
    "labels": "/m/gtzan04"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop3/hiphop.00095.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00096.wav",
    "labels": "/m/gtzan04"
   },
   {
@@ -1621,11 +1249,19 @@
    "labels": "/m/gtzan04"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00097.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop2/hiphop.00097.wav",
    "labels": "/m/gtzan04"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop3/hiphop.00097.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/hiphop/hiphop.00098.wav",
    "labels": "/m/gtzan04"
   },
   {
@@ -1637,11 +1273,19 @@
    "labels": "/m/gtzan04"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00002.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz2/jazz.00002.wav",
    "labels": "/m/gtzan05"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz3/jazz.00002.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00003.wav",
    "labels": "/m/gtzan05"
   },
   {
@@ -1653,11 +1297,19 @@
    "labels": "/m/gtzan05"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00004.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz2/jazz.00004.wav",
    "labels": "/m/gtzan05"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz3/jazz.00004.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00005.wav",
    "labels": "/m/gtzan05"
   },
   {
@@ -1669,11 +1321,19 @@
    "labels": "/m/gtzan05"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00006.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz2/jazz.00006.wav",
    "labels": "/m/gtzan05"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz3/jazz.00006.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00007.wav",
    "labels": "/m/gtzan05"
   },
   {
@@ -1685,11 +1345,19 @@
    "labels": "/m/gtzan05"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00008.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz2/jazz.00008.wav",
    "labels": "/m/gtzan05"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz3/jazz.00008.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00009.wav",
    "labels": "/m/gtzan05"
   },
   {
@@ -1701,11 +1369,19 @@
    "labels": "/m/gtzan05"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00010.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz2/jazz.00010.wav",
    "labels": "/m/gtzan05"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz3/jazz.00010.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00025.wav",
    "labels": "/m/gtzan05"
   },
   {
@@ -1717,11 +1393,19 @@
    "labels": "/m/gtzan05"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00026.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz2/jazz.00026.wav",
    "labels": "/m/gtzan05"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz3/jazz.00026.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00027.wav",
    "labels": "/m/gtzan05"
   },
   {
@@ -1733,11 +1417,19 @@
    "labels": "/m/gtzan05"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00028.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz2/jazz.00028.wav",
    "labels": "/m/gtzan05"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz3/jazz.00028.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00029.wav",
    "labels": "/m/gtzan05"
   },
   {
@@ -1749,11 +1441,19 @@
    "labels": "/m/gtzan05"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00030.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz2/jazz.00030.wav",
    "labels": "/m/gtzan05"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz3/jazz.00030.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00031.wav",
    "labels": "/m/gtzan05"
   },
   {
@@ -1765,6 +1465,10 @@
    "labels": "/m/gtzan05"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz/jazz.00032.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/jazz2/jazz.00032.wav",
    "labels": "/m/gtzan05"
   },
@@ -1773,11 +1477,19 @@
    "labels": "/m/gtzan05"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00000.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal2/metal.00000.wav",
    "labels": "/m/gtzan06"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal3/metal.00000.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00001.wav",
    "labels": "/m/gtzan06"
   },
   {
@@ -1789,11 +1501,19 @@
    "labels": "/m/gtzan06"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00006.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal2/metal.00006.wav",
    "labels": "/m/gtzan06"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal3/metal.00006.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00007.wav",
    "labels": "/m/gtzan06"
   },
   {
@@ -1805,11 +1525,19 @@
    "labels": "/m/gtzan06"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00008.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal2/metal.00008.wav",
    "labels": "/m/gtzan06"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal3/metal.00008.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00009.wav",
    "labels": "/m/gtzan06"
   },
   {
@@ -1821,11 +1549,19 @@
    "labels": "/m/gtzan06"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00010.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal2/metal.00010.wav",
    "labels": "/m/gtzan06"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal3/metal.00010.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00011.wav",
    "labels": "/m/gtzan06"
   },
   {
@@ -1837,11 +1573,19 @@
    "labels": "/m/gtzan06"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00016.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal2/metal.00016.wav",
    "labels": "/m/gtzan06"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal3/metal.00016.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00017.wav",
    "labels": "/m/gtzan06"
   },
   {
@@ -1853,11 +1597,19 @@
    "labels": "/m/gtzan06"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00018.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal2/metal.00018.wav",
    "labels": "/m/gtzan06"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal3/metal.00018.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00019.wav",
    "labels": "/m/gtzan06"
   },
   {
@@ -1869,11 +1621,19 @@
    "labels": "/m/gtzan06"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00020.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal2/metal.00020.wav",
    "labels": "/m/gtzan06"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal3/metal.00020.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00036.wav",
    "labels": "/m/gtzan06"
   },
   {
@@ -1885,11 +1645,19 @@
    "labels": "/m/gtzan06"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00037.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal2/metal.00037.wav",
    "labels": "/m/gtzan06"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal3/metal.00037.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00068.wav",
    "labels": "/m/gtzan06"
   },
   {
@@ -1901,11 +1669,19 @@
    "labels": "/m/gtzan06"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00076.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal2/metal.00076.wav",
    "labels": "/m/gtzan06"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal3/metal.00076.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00077.wav",
    "labels": "/m/gtzan06"
   },
   {
@@ -1917,11 +1693,19 @@
    "labels": "/m/gtzan06"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00081.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal2/metal.00081.wav",
    "labels": "/m/gtzan06"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal3/metal.00081.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/metal/metal.00082.wav",
    "labels": "/m/gtzan06"
   },
   {
@@ -1933,11 +1717,19 @@
    "labels": "/m/gtzan06"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00010.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop2/pop.00010.wav",
    "labels": "/m/gtzan07"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop3/pop.00010.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00053.wav",
    "labels": "/m/gtzan07"
   },
   {
@@ -1949,11 +1741,19 @@
    "labels": "/m/gtzan07"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00055.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop2/pop.00055.wav",
    "labels": "/m/gtzan07"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop3/pop.00055.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00058.wav",
    "labels": "/m/gtzan07"
   },
   {
@@ -1965,11 +1765,19 @@
    "labels": "/m/gtzan07"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00059.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop2/pop.00059.wav",
    "labels": "/m/gtzan07"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop3/pop.00059.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00060.wav",
    "labels": "/m/gtzan07"
   },
   {
@@ -1981,11 +1789,19 @@
    "labels": "/m/gtzan07"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00061.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop2/pop.00061.wav",
    "labels": "/m/gtzan07"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop3/pop.00061.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00062.wav",
    "labels": "/m/gtzan07"
   },
   {
@@ -1997,11 +1813,19 @@
    "labels": "/m/gtzan07"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00081.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop2/pop.00081.wav",
    "labels": "/m/gtzan07"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop3/pop.00081.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00083.wav",
    "labels": "/m/gtzan07"
   },
   {
@@ -2013,11 +1837,19 @@
    "labels": "/m/gtzan07"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00084.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop2/pop.00084.wav",
    "labels": "/m/gtzan07"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop3/pop.00084.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00085.wav",
    "labels": "/m/gtzan07"
   },
   {
@@ -2029,6 +1861,10 @@
    "labels": "/m/gtzan07"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop/pop.00086.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/pop2/pop.00086.wav",
    "labels": "/m/gtzan07"
   },
@@ -2037,11 +1873,19 @@
    "labels": "/m/gtzan07"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00061.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae2/reggae.00061.wav",
    "labels": "/m/gtzan08"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae3/reggae.00061.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00062.wav",
    "labels": "/m/gtzan08"
   },
   {
@@ -2053,11 +1897,19 @@
    "labels": "/m/gtzan08"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00070.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae2/reggae.00070.wav",
    "labels": "/m/gtzan08"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae3/reggae.00070.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00072.wav",
    "labels": "/m/gtzan08"
   },
   {
@@ -2069,11 +1921,19 @@
    "labels": "/m/gtzan08"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00074.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae2/reggae.00074.wav",
    "labels": "/m/gtzan08"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae3/reggae.00074.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00076.wav",
    "labels": "/m/gtzan08"
   },
   {
@@ -2085,11 +1945,19 @@
    "labels": "/m/gtzan08"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00077.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae2/reggae.00077.wav",
    "labels": "/m/gtzan08"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae3/reggae.00077.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00078.wav",
    "labels": "/m/gtzan08"
   },
   {
@@ -2101,11 +1969,19 @@
    "labels": "/m/gtzan08"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00085.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae2/reggae.00085.wav",
    "labels": "/m/gtzan08"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae3/reggae.00085.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00092.wav",
    "labels": "/m/gtzan08"
   },
   {
@@ -2117,11 +1993,19 @@
    "labels": "/m/gtzan08"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00093.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae2/reggae.00093.wav",
    "labels": "/m/gtzan08"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae3/reggae.00093.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00094.wav",
    "labels": "/m/gtzan08"
   },
   {
@@ -2133,11 +2017,19 @@
    "labels": "/m/gtzan08"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00095.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae2/reggae.00095.wav",
    "labels": "/m/gtzan08"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae3/reggae.00095.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00096.wav",
    "labels": "/m/gtzan08"
   },
   {
@@ -2149,11 +2041,19 @@
    "labels": "/m/gtzan08"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00097.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae2/reggae.00097.wav",
    "labels": "/m/gtzan08"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae3/reggae.00097.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00098.wav",
    "labels": "/m/gtzan08"
   },
   {
@@ -2165,6 +2065,10 @@
    "labels": "/m/gtzan08"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae/reggae.00099.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/reggae2/reggae.00099.wav",
    "labels": "/m/gtzan08"
   },
@@ -2173,11 +2077,19 @@
    "labels": "/m/gtzan08"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00038.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock2/rock.00038.wav",
    "labels": "/m/gtzan09"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock3/rock.00038.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00049.wav",
    "labels": "/m/gtzan09"
   },
   {
@@ -2189,11 +2101,19 @@
    "labels": "/m/gtzan09"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00050.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock2/rock.00050.wav",
    "labels": "/m/gtzan09"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock3/rock.00050.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00051.wav",
    "labels": "/m/gtzan09"
   },
   {
@@ -2205,11 +2125,19 @@
    "labels": "/m/gtzan09"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00052.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock2/rock.00052.wav",
    "labels": "/m/gtzan09"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock3/rock.00052.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00053.wav",
    "labels": "/m/gtzan09"
   },
   {
@@ -2221,11 +2149,19 @@
    "labels": "/m/gtzan09"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00054.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock2/rock.00054.wav",
    "labels": "/m/gtzan09"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock3/rock.00054.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00055.wav",
    "labels": "/m/gtzan09"
   },
   {
@@ -2237,11 +2173,19 @@
    "labels": "/m/gtzan09"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00056.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock2/rock.00056.wav",
    "labels": "/m/gtzan09"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock3/rock.00056.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00071.wav",
    "labels": "/m/gtzan09"
   },
   {
@@ -2253,11 +2197,19 @@
    "labels": "/m/gtzan09"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00072.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock2/rock.00072.wav",
    "labels": "/m/gtzan09"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock3/rock.00072.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00073.wav",
    "labels": "/m/gtzan09"
   },
   {
@@ -2269,11 +2221,19 @@
    "labels": "/m/gtzan09"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00074.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock2/rock.00074.wav",
    "labels": "/m/gtzan09"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock3/rock.00074.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00075.wav",
    "labels": "/m/gtzan09"
   },
   {
@@ -2285,11 +2245,19 @@
    "labels": "/m/gtzan09"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00076.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock2/rock.00076.wav",
    "labels": "/m/gtzan09"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock3/rock.00076.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00077.wav",
    "labels": "/m/gtzan09"
   },
   {
@@ -2301,11 +2269,19 @@
    "labels": "/m/gtzan09"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00078.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock2/rock.00078.wav",
    "labels": "/m/gtzan09"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock3/rock.00078.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00079.wav",
    "labels": "/m/gtzan09"
   },
   {
@@ -2317,11 +2293,19 @@
    "labels": "/m/gtzan09"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00080.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock2/rock.00080.wav",
    "labels": "/m/gtzan09"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock3/rock.00080.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00081.wav",
    "labels": "/m/gtzan09"
   },
   {
@@ -2333,11 +2317,19 @@
    "labels": "/m/gtzan09"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00082.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock2/rock.00082.wav",
    "labels": "/m/gtzan09"
   },
   {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock3/rock.00082.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00083.wav",
    "labels": "/m/gtzan09"
   },
   {
@@ -2349,6 +2341,10 @@
    "labels": "/m/gtzan09"
   },
   {
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00084.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
    "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock2/rock.00084.wav",
    "labels": "/m/gtzan09"
   },
@@ -2357,11 +2353,7 @@
    "labels": "/m/gtzan09"
   },
   {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock2/rock.00085.wav",
-   "labels": "/m/gtzan09"
-  },
-  {
-   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock3/rock.00085.wav",
+   "wav": "/content/drive/MyDrive/ASTonGTZAN-main/GTZANdatafiles/rock/rock.00085.wavrock2/rock.00085.wavrock3/rock.00085.wav",
    "labels": "/m/gtzan09"
   }
  ]
