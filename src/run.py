@@ -12,6 +12,7 @@ import pickle
 import sys
 import time
 import torch
+from torch.nn.modules.dropout import F
 import wget
 from torch.utils.data import WeightedRandomSampler
 basepath = os.path.dirname(os.path.dirname(sys.path[0]))
@@ -160,16 +161,31 @@ if args.dataset == 'speechcommands':
     print("AUC: {:.6f}".format(val_mAUC))
 
     # test the model on the evaluation set
+#freeze 1-8 15 epochs:
+#sc_url = 'https://www.dropbox.com/scl/fi/dz3hl8s3bgy93k67c139y/Freeze1-8_15epoch.pth?rlkey=xpsbwcwxmmontviwug6ccqaoj&st=l2otxs01&dl=1'
 
-print("downloading best_model for testing eval: ")
-sc_url = 'https://www.dropbox.com/scl/fi/dz3hl8s3bgy93k67c139y/Freeze1-8_15epoch.pth?rlkey=xpsbwcwxmmontviwug6ccqaoj&st=l2otxs01&dl=1'
-wget.download('sc_url', out='./pretrained_models/')
+#freeze 1-10 10 epochs:
+#sc_url = 'https://www.dropbox.com/scl/fi/evimzpnbvqjtc565r5kpe/Freeze1-10.pth?rlkey=c9i7o7zi48f344188b7bxldzc&st=d4fwjwsh&dl=1'
 
 
-checkpoint_path = './pretrained_models/Freeze1-8_15epoch.pth'
+# Baseline
+#sc_url = 'https://www.dropbox.com/scl/fi/i6lt92tv7p5pkqru907i2/baseline.pth?rlkey=8tmytq6ocfbxz24zvn3xgtg9p&st=fmbhbet0&dl=1'
+
+
+#freeze 1-6 10 epochs:
+#sc_url = 'https://www.dropbox.com/scl/fi/9f5xn3r0hxa92guj3wt0k/freeze1-6_70acc.pth?rlkey=vfyncqn2okbmuhkmawti3it88&st=v2170o8n&dl=1'
+# if os.path.exists('../../pretrained_models/eval_test.pth') == False:
+#   print('downloading model for eval')
+#   wget.download(sc_url, out='../../pretrained_models/eval_test.pth')
+
+#checkpoint_path = '../../pretrained_models/best_audio_model.pth'
+checkpoint_path = './exp/test-GTZAN-f10-t10-pTrue-b3-lr5.5e-5-decoupe/models/best_audio_model.pth'
+
+#checkpoint_path = '../../pretrained_models/audio_model.10.pth'
+r_dim = 3
 eval_loader = torch.utils.data.DataLoader(
     dataloader.AudiosetDataset(args.data_eval, label_csv=args.label_csv, audio_conf=val_audio_conf),
-    batch_size=args.batch_size*2, shuffle=False, num_workers=args.num_workers, pin_memory=True)
+    batch_size=r_dim*2, shuffle=False, num_workers=args.num_workers, pin_memory=True)
 model = models.ASTModel(label_dim=10, fstride=10, tstride=10, input_fdim = 128, input_tdim = 1024, imagenet_pretrain=False, audioset_pretrain=False, model_size='base384')
 print('loading weights...')
 checkpoint = torch.load(checkpoint_path, map_location='cpu')

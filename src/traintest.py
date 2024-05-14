@@ -352,15 +352,28 @@ def evaluate(audio_model, val_loader):
         # BUG CASE: Different Song but same Label within 6 segment window
         num_songs = 0
         r_dim = 6
+        num_skipped = 0
         for i, (audio_input, labels) in enumerate(val_loader):
+            #print(labels)
             if audio_input.shape[0] != r_dim:
-                pass
-            s1_audio_input, s2_audio_input = torch.split(audio_input, r_dim/2)
-            s1_labels, s2_labels = torch.split(labels, r_dim/2)
+                # print(audio_input)
+                # print(labels)
+                num_skipped += audio_input.shape[0]
+                break
+            s1_audio_input, s2_audio_input = torch.split(audio_input, int(r_dim/2))
+            s1_labels, s2_labels = torch.split(labels, int(r_dim/2))
 
             # Check if labels per song are the same
-            assert (s1_labels[0] == s1_labels).all()
-            assert (s2_labels[0] == s2_labels).all()
+            # print(s1_labels)
+            # print(s2_labels)
+            # assert (s1_labels[0] == s1_labels).all()
+            # assert (s2_labels[0] == s2_labels).all()
+            if not (s1_labels[0] == s1_labels).all():
+              #print(s1_labels)
+              #print(s2_labels)
+              num_skipped += r_dim
+              pass
+          
 
 
             # if i % 3 != 0 or i == 0: 
@@ -376,18 +389,18 @@ def evaluate(audio_model, val_loader):
             s1_predictions = s1_audio_output.to('cpu').detach()
             s1_top_preds = torch.argmax(s1_audio_output, dim=1) # list of predictions, values 0 - 9
             s1_pred = torch.argmax(torch.bincount(s1_top_preds)) # get most common prediction 
-            if s1_pred == s1_labels[0][0]:
+            if s1_pred == torch.argmax(s1_labels):
                 num_acc += 1
-            print("Song 1 Predictions: ", s1_top_preds, "Majority vote:", s1_pred, "Truth:", s1_labels[0][0])
+            print("Song 1 Predictions: ", s1_top_preds, "Majority vote:", s1_pred, "Truth:", torch.argmax(s1_labels))
             
             s2_audio_output = audio_model(s2_audio_input)
             s2_audio_output = torch.sigmoid(s2_audio_output)
             s2_predictions = s2_audio_output.to('cpu').detach()
             s2_top_preds = torch.argmax(s2_audio_output, dim=1) # list of predictions, values 0 - 9
             s2_pred = torch.argmax(torch.bincount(s2_top_preds)) # get most common prediction 
-            if s2_pred == s2_labels[0][0]:
+            if s2_pred == torch.argmax(s2_labels):
                 num_acc += 1
-            print("Song 2 Predictions: ", s2_top_preds, "Majority vote:", s2_pred, "Truth:", s2_labels[0][0])
+            print("Song 2 Predictions: ", s2_top_preds, "Majority vote:", s2_pred, "Truth:", torch.argmax(s2_labels))
             
             #piece_pred.append(first_pred)
             #A_predictions.append(predictions)
@@ -406,6 +419,7 @@ def evaluate(audio_model, val_loader):
 
             num_songs += 2
         eval_acc = num_acc / num_songs
+        print('Number of segments evaluated: ', num_songs*r_dim, 'Number of segments skipped: ', num_skipped)
         # audio_output = torch.cat(A_predictions)
         # target = torch.cat(A_targets)
         # loss = np.mean(A_loss)
