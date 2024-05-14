@@ -148,6 +148,7 @@ class AudiosetDataset(Dataset):
 
     def __getitem__(self, index):
         if random.random() < self.mixup:
+            print("mixup triggered")
             datum = self.data[index]
             mix_sample_idx = random.randint(0, len(self.data)-1)
             mix_datum = self.data[mix_sample_idx]
