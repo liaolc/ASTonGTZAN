@@ -1,4 +1,4 @@
-#This holds most of the related results and files for the GTZAN music classification experiments. :grin:
+# This holds most of the related results and files for the GTZAN music classification experiments. :grin:
 
 Since files larger than 100MB cannot be uploaded to GitHub, the model checkpoints and some prediction csv outputs (contained in .zip files) can be found [here](https://drive.google.com/drive/folders/1eZx7QmLVne8sjrIdfYOP-uja-g_pBVRf?usp=sharing)
 

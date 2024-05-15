@@ -1,4 +1,4 @@
-##Welcome to ASTonGTZAN :wave:, 
+# Welcome to ASTonGTZAN :wave:, 
 This repository holds my code that examines various data augmentation, layer freezing, and majority voting techniques to improve the performance of the Audio Spectrogram Transformer on music genre classifcation with the GTZAN dataset. The best model achieves an accuracy of 84.4% with majority voting on the filtered test GTZAN data list.  
 
 It was originally a clone of [Tyler Schenwenk's fork](https://github.com/Tyler-Schwenk/ast-Rana-Draytonii) of the original [AST repository](https://github.com/YuanGongND/ast)
