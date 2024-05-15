@@ -1,3 +1,17 @@
+##Welcome to ASTonGTZAN :wave:, 
+This repository holds my code that examines various data augmentation, layer freezing, and majority voting techniques to improve the performance of the Audio Spectrogram Transformer on music genre classifcation with the GTZAN dataset. The best model achieves an accuracy of 84.4% with majority voting on the filtered test GTZAN data list.  
+
+It was originally a clone of [Tyler Schenwenk's fork](https://github.com/Tyler-Schwenk/ast-Rana-Draytonii) of the original [AST repository](https://github.com/YuanGongND/ast)
+
+Most of my viewable work and results can be seen in the /egs/GTZAN/ folder and subfolders and google colab notebooks in /colab/GTZANNotebooks/. I have also worked heavily in modifying files in /src/ and /src/models. 
+
+Additional files such as the GTZAN dataset divided into 10 second segments can be found in [this dropbox folder](https://www.dropbox.com/scl/fo/vd8k655ismxj1e3htj2fi/AId3g0jfnlbd0h6FUxdzu8I?rlkey=966nt8lg6hidrf5dbhh197f7s&st=4zfxnk63&dl=0)
+
+The first iteration tarball and files can be found in this [other dropbox folder](https://www.dropbox.com/scl/fo/b2fmy7nj6y3v9jp3xsc9a/AI_kT945s8s8ritIgbrqyZE?rlkey=82mj2gnx51qtoa7ia22m1vkws&st=tlidezv3&dl=0)
+
+My write up is linked [here](https://docs.google.com/document/d/1ppuryBfhHmI9Gwt1n4j2BCXH-K_8ATQzMhEreYwFkzI/edit?usp=sharing)
+
+
 ## Pretrained Models
 We provide full AudioSet pretrained models and Speechcommands-V2-35 pretrained model.
 1. [Full AudioSet, 10 tstride, 10 fstride, with Weight Averaging (0.459 mAP)](https://www.dropbox.com/s/ca0b1v2nlxzyeb4/audioset_10_10_0.4593.pth?dl=1)
