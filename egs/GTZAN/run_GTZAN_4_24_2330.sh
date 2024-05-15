@@ -21,11 +21,11 @@ imagenetpretrain=True
 audiosetpretrain=True
 bal=none
 lr=5.5e-5
-epoch=10
+epoch=10 
 freqm=48
 timem=192
-mixup=0
-batch_size=3
+mixup=0.5
+batch_size=6
 fstride=10
 tstride=10
 

@@ -331,15 +331,9 @@ def evaluate(audio_model, val_loader):
     audio_model.eval()
 
     #end = time.time()
-    A_predictions = []
-    A_targets = []
-    A_loss = []
     num_acc = 0
     eval_acc = 0
     with torch.no_grad():
-        piece_inputs = []
-        piece_labels = []
-        piece_pred = []
         # eval loader -- list of audio files, labels --> list of audio file segments? --> audio segment data
         # generate list of audio with parts in sequence after each other
         # in groups of 3, check if label matches 

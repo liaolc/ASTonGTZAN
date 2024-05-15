@@ -1,0 +1,652 @@
+I am process 35785, running on 5b363c52cb55: starting (Tue May 14 22:06:52 2024)
+now train a audio spectrogram transformer model
+balanced sampler is not used
+---------------the train dataloader---------------
+now using following mask: 0 freq, 0 time
+now using mix-up with rate 0.000000
+now process GTZAN
+use dataset mean -2.257 and std 3.273 to normalize the input.
+{'/m/gtzan00': '0', '/m/gtzan01': '1', '/m/gtzan02': '2', '/m/gtzan03': '3', '/m/gtzan04': '4', '/m/gtzan05': '5', '/m/gtzan06': '6', '/m/gtzan07': '7', '/m/gtzan08': '8', '/m/gtzan09': '9'}
+number of classes is 10
+---------------the evaluation dataloader---------------
+now using following mask: 0 freq, 0 time
+now using mix-up with rate 0.000000
+now process GTZAN
+use dataset mean -2.257 and std 3.273 to normalize the input.
+{'/m/gtzan00': '0', '/m/gtzan01': '1', '/m/gtzan02': '2', '/m/gtzan03': '3', '/m/gtzan04': '4', '/m/gtzan05': '5', '/m/gtzan06': '6', '/m/gtzan07': '7', '/m/gtzan08': '8', '/m/gtzan09': '9'}
+number of classes is 10
+---------------AST Model Summary---------------
+ImageNet pretraining: True, AudioSet pretraining: True
+frequncey stride=10, time stride=10
+number of patches=1212
+
+Creating experiment directory: ./exp/test-GTZAN-f10-t10-pTrue-b3-lr5.5e-5-decoupe
+Now starting training for 10 epochs
+running on cuda
+Total parameter number is : 87.734 million
+Total trainable parameter number is : 87.734 million
+now training with GTZAN, main metrics: acc, loss function: CrossEntropyLoss(), learning rate scheduler: <torch.optim.lr_scheduler.MultiStepLR object at 0x78ed2a1f8a90>
+The learning rate scheduler starts at 5 epoch with decay rate of 0.750 every 1 epochs
+current #steps=0, #epochs=1
+start training...
+---------------
+2024-05-14 22:06:54.516716
+current #epochs=1, #steps=0
+warm-up learning rate is 0.000000
+warm-up learning rate is 0.000003
+warm-up learning rate is 0.000006
+Epoch: [1][100/590]	Per Sample Total Time 0.10903	Per Sample Data Time 0.00692	Per Sample DNN Time 0.10211	Train Loss 2.2263	
+warm-up learning rate is 0.000008
+warm-up learning rate is 0.000011
+Epoch: [1][200/590]	Per Sample Total Time 0.10511	Per Sample Data Time 0.00354	Per Sample DNN Time 0.10157	Train Loss 1.8374	
+warm-up learning rate is 0.000014
+warm-up learning rate is 0.000017
+Epoch: [1][300/590]	Per Sample Total Time 0.10417	Per Sample Data Time 0.00241	Per Sample DNN Time 0.10177	Train Loss 1.4517	
+warm-up learning rate is 0.000019
+warm-up learning rate is 0.000022
+Epoch: [1][400/590]	Per Sample Total Time 0.10389	Per Sample Data Time 0.00184	Per Sample DNN Time 0.10205	Train Loss 1.1931	
+warm-up learning rate is 0.000025
+warm-up learning rate is 0.000028
+Epoch: [1][500/590]	Per Sample Total Time 0.10383	Per Sample Data Time 0.00150	Per Sample DNN Time 0.10233	Train Loss 1.0153	
+warm-up learning rate is 0.000030
+start validation
+acc: 0.668359
+AUC: 0.909747
+Avg Precision: 0.100000
+Avg Recall: 1.000000
+d_prime: 1.893910
+train_loss: 0.922147
+valid_loss: 1.918945
+validation finished
+Epoch-1 lr: 3.0250000000000003e-05
+epoch 1 training time: 211.181
+---------------
+2024-05-14 22:10:25.698432
+current #epochs=2, #steps=590
+warm-up learning rate is 0.000033
+Epoch: [2][10/590]	Per Sample Total Time 0.18163	Per Sample Data Time 0.07339	Per Sample DNN Time 0.10823	Train Loss 0.0524	
+warm-up learning rate is 0.000036
+warm-up learning rate is 0.000039
+Epoch: [2][110/590]	Per Sample Total Time 0.11438	Per Sample Data Time 0.00739	Per Sample DNN Time 0.10699	Train Loss 0.1148	
+warm-up learning rate is 0.000041
+warm-up learning rate is 0.000044
+Epoch: [2][210/590]	Per Sample Total Time 0.11005	Per Sample Data Time 0.00395	Per Sample DNN Time 0.10611	Train Loss 0.1316	
+warm-up learning rate is 0.000047
+warm-up learning rate is 0.000050
+Epoch: [2][310/590]	Per Sample Total Time 0.10880	Per Sample Data Time 0.00272	Per Sample DNN Time 0.10608	Train Loss 0.1142	
+warm-up learning rate is 0.000052
+warm-up learning rate is 0.000055
+Epoch: [2][410/590]	Per Sample Total Time 0.10812	Per Sample Data Time 0.00209	Per Sample DNN Time 0.10603	Train Loss 0.1382	
+Epoch: [2][510/590]	Per Sample Total Time 0.10766	Per Sample Data Time 0.00170	Per Sample DNN Time 0.10596	Train Loss 0.1522	
+start validation
+acc: 0.685279
+AUC: 0.925715
+Avg Precision: 0.100000
+Avg Recall: 1.000000
+d_prime: 2.042972
+train_loss: 0.155545
+valid_loss: 1.888672
+validation finished
+Epoch-2 lr: 5.5e-05
+epoch 2 training time: 218.969
+---------------
+2024-05-14 22:14:04.667066
+current #epochs=3, #steps=1180
+Epoch: [3][20/590]	Per Sample Total Time 0.14887	Per Sample Data Time 0.04255	Per Sample DNN Time 0.10632	Train Loss 0.0237	
+Epoch: [3][120/590]	Per Sample Total Time 0.11330	Per Sample Data Time 0.00749	Per Sample DNN Time 0.10581	Train Loss 0.0436	
+Epoch: [3][220/590]	Per Sample Total Time 0.10986	Per Sample Data Time 0.00416	Per Sample DNN Time 0.10570	Train Loss 0.0577	
+Epoch: [3][320/590]	Per Sample Total Time 0.10851	Per Sample Data Time 0.00290	Per Sample DNN Time 0.10561	Train Loss 0.0631	
+Epoch: [3][420/590]	Per Sample Total Time 0.10783	Per Sample Data Time 0.00224	Per Sample DNN Time 0.10559	Train Loss 0.0558	
+Epoch: [3][520/590]	Per Sample Total Time 0.10741	Per Sample Data Time 0.00184	Per Sample DNN Time 0.10558	Train Loss 0.0602	
+start validation
+acc: 0.654822
+AUC: 0.917631
+Avg Precision: 0.100000
+Avg Recall: 1.000000
+d_prime: 1.964781
+train_loss: 0.057619
+valid_loss: 1.880859
+validation finished
+Epoch-3 lr: 5.5e-05
+epoch 3 training time: 217.028
+---------------
+2024-05-14 22:17:41.695455
+current #epochs=4, #steps=1770
+Epoch: [4][30/590]	Per Sample Total Time 0.12593	Per Sample Data Time 0.01999	Per Sample DNN Time 0.10594	Train Loss 0.0114	
+Epoch: [4][130/590]	Per Sample Total Time 0.11048	Per Sample Data Time 0.00483	Per Sample DNN Time 0.10565	Train Loss 0.0092	
+Epoch: [4][230/590]	Per Sample Total Time 0.10830	Per Sample Data Time 0.00279	Per Sample DNN Time 0.10551	Train Loss 0.0082	
+Epoch: [4][330/590]	Per Sample Total Time 0.10740	Per Sample Data Time 0.00198	Per Sample DNN Time 0.10542	Train Loss 0.0075	
+Epoch: [4][430/590]	Per Sample Total Time 0.10696	Per Sample Data Time 0.00155	Per Sample DNN Time 0.10541	Train Loss 0.0156	
+Epoch: [4][530/590]	Per Sample Total Time 0.10675	Per Sample Data Time 0.00129	Per Sample DNN Time 0.10546	Train Loss 0.0288	
+start validation
+acc: 0.688663
+AUC: 0.922254
+Avg Precision: 0.100000
+Avg Recall: 1.000000
+d_prime: 2.008745
+train_loss: 0.035321
+valid_loss: 1.875000
+validation finished
+Epoch-4 lr: 5.5e-05
+epoch 4 training time: 217.415
+---------------
+2024-05-14 22:21:19.110575
+current #epochs=5, #steps=2360
+Epoch: [5][40/590]	Per Sample Total Time 0.12510	Per Sample Data Time 0.01907	Per Sample DNN Time 0.10603	Train Loss 0.0717	
+Epoch: [5][140/590]	Per Sample Total Time 0.11149	Per Sample Data Time 0.00563	Per Sample DNN Time 0.10586	Train Loss 0.0564	
+Epoch: [5][240/590]	Per Sample Total Time 0.10890	Per Sample Data Time 0.00335	Per Sample DNN Time 0.10555	Train Loss 0.0350	
+Epoch: [5][340/590]	Per Sample Total Time 0.10787	Per Sample Data Time 0.00240	Per Sample DNN Time 0.10547	Train Loss 0.0259	
+Epoch: [5][440/590]	Per Sample Total Time 0.10737	Per Sample Data Time 0.00189	Per Sample DNN Time 0.10548	Train Loss 0.0240	
+Epoch: [5][540/590]	Per Sample Total Time 0.10701	Per Sample Data Time 0.00156	Per Sample DNN Time 0.10545	Train Loss 0.0301	
+start validation
+acc: 0.680203
+AUC: 0.929332
+Avg Precision: 0.100000
+Avg Recall: 1.000000
+d_prime: 2.080078
+train_loss: 0.032957
+valid_loss: 1.863281
+validation finished
+Epoch-5 lr: 4.125e-05
+epoch 5 training time: 215.944
+---------------
+2024-05-14 22:24:55.054807
+current #epochs=6, #steps=2950
+Epoch: [6][50/590]	Per Sample Total Time 0.11790	Per Sample Data Time 0.01202	Per Sample DNN Time 0.10588	Train Loss 0.0598	
+Epoch: [6][150/590]	Per Sample Total Time 0.10974	Per Sample Data Time 0.00415	Per Sample DNN Time 0.10560	Train Loss 0.0241	
+Epoch: [6][250/590]	Per Sample Total Time 0.10797	Per Sample Data Time 0.00255	Per Sample DNN Time 0.10543	Train Loss 0.0216	
+Epoch: [6][350/590]	Per Sample Total Time 0.10725	Per Sample Data Time 0.00186	Per Sample DNN Time 0.10540	Train Loss 0.0250	
+Epoch: [6][450/590]	Per Sample Total Time 0.10685	Per Sample Data Time 0.00147	Per Sample DNN Time 0.10538	Train Loss 0.0222	
+Epoch: [6][550/590]	Per Sample Total Time 0.10659	Per Sample Data Time 0.00123	Per Sample DNN Time 0.10536	Train Loss 0.0409	
+start validation
+acc: 0.666667
+AUC: 0.905099
+Avg Precision: 0.100000
+Avg Recall: 1.000000
+d_prime: 1.854269
+train_loss: 0.044412
+valid_loss: 1.882812
+validation finished
+Epoch-6 lr: 3.09375e-05
+epoch 6 training time: 215.673
+---------------
+2024-05-14 22:28:30.727974
+current #epochs=7, #steps=3540
+Epoch: [7][60/590]	Per Sample Total Time 0.11537	Per Sample Data Time 0.00966	Per Sample DNN Time 0.10571	Train Loss 0.0068	
+Epoch: [7][160/590]	Per Sample Total Time 0.10919	Per Sample Data Time 0.00374	Per Sample DNN Time 0.10545	Train Loss 0.0047	
+Epoch: [7][260/590]	Per Sample Total Time 0.10765	Per Sample Data Time 0.00235	Per Sample DNN Time 0.10530	Train Loss 0.0036	
+Epoch: [7][360/590]	Per Sample Total Time 0.10701	Per Sample Data Time 0.00173	Per Sample DNN Time 0.10528	Train Loss 0.0058	
+Epoch: [7][460/590]	Per Sample Total Time 0.10665	Per Sample Data Time 0.00138	Per Sample DNN Time 0.10526	Train Loss 0.0048	
+Epoch: [7][560/590]	Per Sample Total Time 0.10636	Per Sample Data Time 0.00115	Per Sample DNN Time 0.10521	Train Loss 0.0044	
+start validation
+acc: 0.705584
+AUC: 0.921897
+Avg Precision: 0.100000
+Avg Recall: 1.000000
+d_prime: 2.005284
+train_loss: 0.004265
+valid_loss: 1.858398
+validation finished
+Epoch-7 lr: 2.3203125e-05
+epoch 7 training time: 217.496
+---------------
+2024-05-14 22:32:08.224011
+current #epochs=8, #steps=4130
+Epoch: [8][70/590]	Per Sample Total Time 0.12186	Per Sample Data Time 0.01635	Per Sample DNN Time 0.10551	Train Loss 0.0009	
+Epoch: [8][170/590]	Per Sample Total Time 0.11225	Per Sample Data Time 0.00686	Per Sample DNN Time 0.10539	Train Loss 0.0008	
+Epoch: [8][270/590]	Per Sample Total Time 0.10957	Per Sample Data Time 0.00438	Per Sample DNN Time 0.10519	Train Loss 0.0007	
+Epoch: [8][370/590]	Per Sample Total Time 0.10839	Per Sample Data Time 0.00323	Per Sample DNN Time 0.10516	Train Loss 0.0007	
+Epoch: [8][470/590]	Per Sample Total Time 0.10768	Per Sample Data Time 0.00257	Per Sample DNN Time 0.10511	Train Loss 0.0007	
+Epoch: [8][570/590]	Per Sample Total Time 0.10722	Per Sample Data Time 0.00214	Per Sample DNN Time 0.10508	Train Loss 0.0007	
+start validation
+acc: 0.710660
+AUC: 0.920915
+Avg Precision: 0.100000
+Avg Recall: 1.000000
+d_prime: 1.995810
+train_loss: 0.000678
+valid_loss: 1.855469
+validation finished
+Epoch-8 lr: 1.740234375e-05
+epoch 8 training time: 217.832
+---------------
+2024-05-14 22:35:46.056265
+current #epochs=9, #steps=4720
+Epoch: [9][80/590]	Per Sample Total Time 0.11627	Per Sample Data Time 0.01079	Per Sample DNN Time 0.10547	Train Loss 0.0006	
+Epoch: [9][180/590]	Per Sample Total Time 0.11012	Per Sample Data Time 0.00490	Per Sample DNN Time 0.10522	Train Loss 0.0005	
+Epoch: [9][280/590]	Per Sample Total Time 0.10829	Per Sample Data Time 0.00320	Per Sample DNN Time 0.10509	Train Loss 0.0005	
+Epoch: [9][380/590]	Per Sample Total Time 0.10746	Per Sample Data Time 0.00239	Per Sample DNN Time 0.10507	Train Loss 0.0005	
+Epoch: [9][480/590]	Per Sample Total Time 0.10699	Per Sample Data Time 0.00192	Per Sample DNN Time 0.10507	Train Loss 0.0005	
+Epoch: [9][580/590]	Per Sample Total Time 0.10663	Per Sample Data Time 0.00161	Per Sample DNN Time 0.10502	Train Loss 0.0005	
+start validation
+acc: 0.708968
+AUC: 0.920938
+Avg Precision: 0.100000
+Avg Recall: 1.000000
+d_prime: 1.996037
+train_loss: 0.000468
+valid_loss: 1.853516
+validation finished
+Epoch-9 lr: 1.3051757812499998e-05
+epoch 9 training time: 215.700
+---------------
+2024-05-14 22:39:21.755848
+current #epochs=10, #steps=5310
+Epoch: [10][90/590]	Per Sample Total Time 0.11101	Per Sample Data Time 0.00553	Per Sample DNN Time 0.10548	Train Loss 0.0004	
+Epoch: [10][190/590]	Per Sample Total Time 0.10795	Per Sample Data Time 0.00270	Per Sample DNN Time 0.10525	Train Loss 0.0004	
+Epoch: [10][290/590]	Per Sample Total Time 0.10692	Per Sample Data Time 0.00182	Per Sample DNN Time 0.10510	Train Loss 0.0004	
+Epoch: [10][390/590]	Per Sample Total Time 0.10649	Per Sample Data Time 0.00138	Per Sample DNN Time 0.10511	Train Loss 0.0004	
+Epoch: [10][490/590]	Per Sample Total Time 0.10627	Per Sample Data Time 0.00113	Per Sample DNN Time 0.10514	Train Loss 0.0004	
+start validation
+acc: 0.710660
+AUC: 0.920861
+Avg Precision: 0.100000
+Avg Recall: 1.000000
+d_prime: 1.995295
+train_loss: 0.000369
+valid_loss: 1.852539
+validation finished
+Epoch-10 lr: 9.788818359374998e-06
+epoch 10 training time: 214.716
+---------------the evaluation dataloader---------------
+now using following mask: 0 freq, 0 time
+now using mix-up with rate 0.000000
+now process GTZAN
+use dataset mean -2.257 and std 3.273 to normalize the input.
+{'/m/gtzan00': '0', '/m/gtzan01': '1', '/m/gtzan02': '2', '/m/gtzan03': '3', '/m/gtzan04': '4', '/m/gtzan05': '5', '/m/gtzan06': '6', '/m/gtzan07': '7', '/m/gtzan08': '8', '/m/gtzan09': '9'}
+number of classes is 10
+---------------AST Model Summary---------------
+ImageNet pretraining: False, AudioSet pretraining: False
+frequncey stride=10, time stride=10
+number of patches=1212
+loading weights...
+model finished loading
+Song 1 Predictions:  tensor([0, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 2 Predictions:  tensor([0, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 1 Predictions:  tensor([0, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 2 Predictions:  tensor([0, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 1 Predictions:  tensor([0, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 2 Predictions:  tensor([5, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 1 Predictions:  tensor([0, 5, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 2 Predictions:  tensor([0, 5, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 1 Predictions:  tensor([0, 0, 2], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 2 Predictions:  tensor([0, 0, 2], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 1 Predictions:  tensor([5, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(0)
+Song 2 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 1 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 2 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 1 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 2 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 1 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 2 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 1 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 2 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 1 Predictions:  tensor([1, 1, 0], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 2 Predictions:  tensor([2, 2, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 1 Predictions:  tensor([2, 2, 9], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 2 Predictions:  tensor([2, 3, 9], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 1 Predictions:  tensor([9, 9, 2], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(2)
+Song 2 Predictions:  tensor([2, 2, 9], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 1 Predictions:  tensor([2, 2, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 2 Predictions:  tensor([2, 2, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 1 Predictions:  tensor([7, 2, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 2 Predictions:  tensor([2, 2, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 1 Predictions:  tensor([7, 2, 3], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 2 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 1 Predictions:  tensor([8, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 2 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 1 Predictions:  tensor([3, 7, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 2 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 1 Predictions:  tensor([9, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 2 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 1 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 2 Predictions:  tensor([9, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 1 Predictions:  tensor([3, 8, 4], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 2 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 1 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 2 Predictions:  tensor([4, 8, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(4)
+Song 1 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 2 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 1 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 2 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 1 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 2 Predictions:  tensor([4, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(4)
+Song 1 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 2 Predictions:  tensor([5, 9, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 1 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 2 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 1 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 2 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 1 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 2 Predictions:  tensor([9, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 1 Predictions:  tensor([5, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(5)
+Song 2 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 1 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 2 Predictions:  tensor([6, 6, 9], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 1 Predictions:  tensor([2, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 2 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 1 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 2 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 1 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 2 Predictions:  tensor([6, 7, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(6)
+Song 1 Predictions:  tensor([7, 9, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 2 Predictions:  tensor([2, 7, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 1 Predictions:  tensor([7, 4, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 2 Predictions:  tensor([7, 3, 4], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(7)
+Song 1 Predictions:  tensor([7, 7, 4], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 2 Predictions:  tensor([4, 7, 9], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(7)
+Song 1 Predictions:  tensor([8, 4, 7], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(7)
+Song 2 Predictions:  tensor([7, 7, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 1 Predictions:  tensor([7, 7, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 2 Predictions:  tensor([7, 8, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(7)
+Song 1 Predictions:  tensor([8, 8, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 2 Predictions:  tensor([8, 8, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 1 Predictions:  tensor([8, 8, 4], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 2 Predictions:  tensor([8, 8, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 1 Predictions:  tensor([8, 8, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 2 Predictions:  tensor([8, 8, 4], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 1 Predictions:  tensor([7, 8, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 2 Predictions:  tensor([3, 5, 8], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(8)
+Song 1 Predictions:  tensor([0, 9, 6], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(9)
+Song 2 Predictions:  tensor([9, 9, 4], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 1 Predictions:  tensor([9, 9, 8], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 2 Predictions:  tensor([8, 9, 9], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 1 Predictions:  tensor([9, 7, 9], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 2 Predictions:  tensor([3, 9, 5], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(9)
+Song 1 Predictions:  tensor([9, 9, 9], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 2 Predictions:  tensor([4, 2, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(9)
+Song 1 Predictions:  tensor([5, 6, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(9)
+Song 2 Predictions:  tensor([9, 9, 9], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 1 Predictions:  tensor([2, 8, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(9)
+Song 2 Predictions:  tensor([0, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 1 Predictions:  tensor([0, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 2 Predictions:  tensor([0, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 1 Predictions:  tensor([0, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 2 Predictions:  tensor([0, 0, 5], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 1 Predictions:  tensor([0, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 2 Predictions:  tensor([5, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 1 Predictions:  tensor([5, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 2 Predictions:  tensor([0, 2, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 1 Predictions:  tensor([0, 2, 5], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 2 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 1 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 2 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 1 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 2 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 1 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 2 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 1 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 2 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 1 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 2 Predictions:  tensor([1, 0, 2], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(1)
+Song 1 Predictions:  tensor([2, 2, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 2 Predictions:  tensor([2, 9, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 1 Predictions:  tensor([3, 9, 9], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(2)
+Song 2 Predictions:  tensor([9, 2, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 1 Predictions:  tensor([2, 9, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 2 Predictions:  tensor([2, 2, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 1 Predictions:  tensor([2, 2, 7], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 2 Predictions:  tensor([2, 2, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 1 Predictions:  tensor([2, 2, 7], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 2 Predictions:  tensor([2, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(2)
+Song 1 Predictions:  tensor([3, 3, 8], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 2 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 1 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 2 Predictions:  tensor([7, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 1 Predictions:  tensor([3, 3, 9], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 2 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 1 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 2 Predictions:  tensor([3, 3, 9], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 1 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 2 Predictions:  tensor([8, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 1 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 2 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 1 Predictions:  tensor([8, 3, 4], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(4)
+Song 2 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 1 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 2 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 1 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 2 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 1 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 2 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 1 Predictions:  tensor([9, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 2 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 1 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 2 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 1 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 2 Predictions:  tensor([5, 5, 9], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 1 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 2 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 1 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 2 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 1 Predictions:  tensor([6, 9, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(6)
+Song 2 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 1 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 2 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 1 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 2 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 1 Predictions:  tensor([7, 4, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 2 Predictions:  tensor([9, 7, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(7)
+Song 1 Predictions:  tensor([7, 7, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 2 Predictions:  tensor([4, 7, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 1 Predictions:  tensor([3, 4, 7], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(7)
+Song 2 Predictions:  tensor([7, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(7)
+Song 1 Predictions:  tensor([7, 9, 8], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 2 Predictions:  tensor([4, 7, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 1 Predictions:  tensor([7, 7, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 2 Predictions:  tensor([7, 7, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 1 Predictions:  tensor([8, 8, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 2 Predictions:  tensor([8, 8, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 1 Predictions:  tensor([8, 8, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 2 Predictions:  tensor([8, 4, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 1 Predictions:  tensor([8, 8, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 2 Predictions:  tensor([8, 8, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 1 Predictions:  tensor([8, 4, 7], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(8)
+Song 2 Predictions:  tensor([8, 8, 3], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 1 Predictions:  tensor([5, 8, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(8)
+Song 2 Predictions:  tensor([9, 6, 9], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 1 Predictions:  tensor([9, 4, 9], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 2 Predictions:  tensor([9, 8, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(9)
+Song 1 Predictions:  tensor([9, 9, 9], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 2 Predictions:  tensor([7, 9, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(9)
+Song 1 Predictions:  tensor([9, 5, 9], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 2 Predictions:  tensor([9, 9, 4], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 1 Predictions:  tensor([2, 0, 5], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(9)
+Song 2 Predictions:  tensor([6, 3, 9], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(9)
+Song 1 Predictions:  tensor([9, 9, 2], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 2 Predictions:  tensor([8, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(9)
+Song 1 Predictions:  tensor([0, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 2 Predictions:  tensor([0, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 1 Predictions:  tensor([0, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 2 Predictions:  tensor([0, 0, 5], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 1 Predictions:  tensor([0, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 2 Predictions:  tensor([0, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 1 Predictions:  tensor([0, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 2 Predictions:  tensor([0, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 1 Predictions:  tensor([0, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 2 Predictions:  tensor([0, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 1 Predictions:  tensor([0, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 2 Predictions:  tensor([0, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 1 Predictions:  tensor([5, 5, 0], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(0)
+Song 2 Predictions:  tensor([0, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 1 Predictions:  tensor([6, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 2 Predictions:  tensor([0, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 1 Predictions:  tensor([0, 0, 2], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 2 Predictions:  tensor([2, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 1 Predictions:  tensor([9, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(0)
+Song 2 Predictions:  tensor([9, 9, 5], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(0)
+Song 1 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 2 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 1 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 2 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 1 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 2 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 1 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 2 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 1 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 2 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 1 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 2 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 1 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 2 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 1 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 2 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 1 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 2 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 1 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 2 Predictions:  tensor([1, 1, 1], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 1 Predictions:  tensor([1, 1, 0], device='cuda:0') Majority vote: tensor(1, device='cuda:0') Truth: tensor(1)
+Song 2 Predictions:  tensor([0, 2, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 1 Predictions:  tensor([2, 2, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 2 Predictions:  tensor([2, 2, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 1 Predictions:  tensor([2, 2, 9], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 2 Predictions:  tensor([2, 2, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 1 Predictions:  tensor([2, 2, 9], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 2 Predictions:  tensor([9, 9, 9], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(2)
+Song 1 Predictions:  tensor([9, 9, 2], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(2)
+Song 2 Predictions:  tensor([2, 2, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 1 Predictions:  tensor([2, 2, 9], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 2 Predictions:  tensor([9, 2, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 1 Predictions:  tensor([2, 2, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 2 Predictions:  tensor([2, 2, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 1 Predictions:  tensor([2, 2, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 2 Predictions:  tensor([2, 2, 7], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 1 Predictions:  tensor([2, 2, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 2 Predictions:  tensor([2, 2, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 1 Predictions:  tensor([2, 2, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 2 Predictions:  tensor([2, 7, 3], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 1 Predictions:  tensor([2, 7, 3], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(2)
+Song 2 Predictions:  tensor([3, 3, 7], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 1 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 2 Predictions:  tensor([3, 8, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(3)
+Song 1 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 2 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 1 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 2 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 1 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 2 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 1 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 2 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 1 Predictions:  tensor([3, 3, 4], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 2 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 1 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 2 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 1 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 2 Predictions:  tensor([3, 3, 9], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 1 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 2 Predictions:  tensor([3, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(3)
+Song 1 Predictions:  tensor([3, 3, 4], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(4)
+Song 2 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 1 Predictions:  tensor([3, 3, 7], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(4)
+Song 2 Predictions:  tensor([7, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 1 Predictions:  tensor([9, 2, 7], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(4)
+Song 2 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 1 Predictions:  tensor([3, 4, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(4)
+Song 2 Predictions:  tensor([3, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 1 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 2 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 1 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 2 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 1 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 2 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 1 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 2 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 1 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 2 Predictions:  tensor([4, 4, 4], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(4)
+Song 1 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 2 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 1 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 2 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 1 Predictions:  tensor([9, 9, 5], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(5)
+Song 2 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 1 Predictions:  tensor([9, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 2 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 1 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 2 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 1 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 2 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 1 Predictions:  tensor([5, 1, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 2 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 1 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 2 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 1 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 2 Predictions:  tensor([5, 5, 5], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(5)
+Song 1 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 2 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 1 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 2 Predictions:  tensor([0, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 1 Predictions:  tensor([6, 6, 0], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 2 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 1 Predictions:  tensor([6, 6, 9], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 2 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 1 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 2 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 1 Predictions:  tensor([6, 6, 0], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 2 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 1 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 2 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 1 Predictions:  tensor([9, 9, 6], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(6)
+Song 2 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 1 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 2 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(6)
+Song 1 Predictions:  tensor([7, 7, 4], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 2 Predictions:  tensor([7, 7, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 1 Predictions:  tensor([3, 9, 7], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(7)
+Song 2 Predictions:  tensor([7, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(7)
+Song 1 Predictions:  tensor([4, 7, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 2 Predictions:  tensor([7, 7, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 1 Predictions:  tensor([4, 4, 7], device='cuda:0') Majority vote: tensor(4, device='cuda:0') Truth: tensor(7)
+Song 2 Predictions:  tensor([7, 7, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 1 Predictions:  tensor([3, 3, 4], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(7)
+Song 2 Predictions:  tensor([3, 7, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 1 Predictions:  tensor([7, 7, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 2 Predictions:  tensor([7, 7, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 1 Predictions:  tensor([7, 7, 9], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 2 Predictions:  tensor([9, 7, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 1 Predictions:  tensor([7, 7, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 2 Predictions:  tensor([7, 7, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 1 Predictions:  tensor([7, 7, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 2 Predictions:  tensor([7, 7, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 1 Predictions:  tensor([7, 7, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 2 Predictions:  tensor([7, 7, 7], device='cuda:0') Majority vote: tensor(7, device='cuda:0') Truth: tensor(7)
+Song 1 Predictions:  tensor([8, 8, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 2 Predictions:  tensor([8, 8, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 1 Predictions:  tensor([8, 8, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 2 Predictions:  tensor([8, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(8)
+Song 1 Predictions:  tensor([8, 8, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 2 Predictions:  tensor([8, 8, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 1 Predictions:  tensor([8, 8, 4], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 2 Predictions:  tensor([4, 8, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 1 Predictions:  tensor([8, 8, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 2 Predictions:  tensor([4, 3, 8], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(8)
+Song 1 Predictions:  tensor([8, 8, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 2 Predictions:  tensor([8, 8, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 1 Predictions:  tensor([8, 8, 4], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 2 Predictions:  tensor([4, 2, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(8)
+Song 1 Predictions:  tensor([8, 8, 4], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(8)
+Song 2 Predictions:  tensor([4, 3, 3], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(8)
+Song 1 Predictions:  tensor([5, 5, 8], device='cuda:0') Majority vote: tensor(5, device='cuda:0') Truth: tensor(8)
+Song 2 Predictions:  tensor([8, 9, 9], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(8)
+Song 1 Predictions:  tensor([9, 0, 4], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(9)
+Song 2 Predictions:  tensor([9, 9, 0], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 1 Predictions:  tensor([9, 9, 9], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 2 Predictions:  tensor([8, 9, 9], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 1 Predictions:  tensor([9, 9, 2], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 2 Predictions:  tensor([0, 8, 8], device='cuda:0') Majority vote: tensor(8, device='cuda:0') Truth: tensor(9)
+Song 1 Predictions:  tensor([9, 3, 9], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 2 Predictions:  tensor([0, 9, 9], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 1 Predictions:  tensor([9, 9, 8], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 2 Predictions:  tensor([8, 3, 9], device='cuda:0') Majority vote: tensor(3, device='cuda:0') Truth: tensor(9)
+Song 1 Predictions:  tensor([9, 9, 9], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 2 Predictions:  tensor([9, 0, 0], device='cuda:0') Majority vote: tensor(0, device='cuda:0') Truth: tensor(9)
+Song 1 Predictions:  tensor([9, 9, 9], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 2 Predictions:  tensor([9, 6, 9], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 1 Predictions:  tensor([2, 2, 0], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(9)
+Song 2 Predictions:  tensor([9, 9, 6], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 1 Predictions:  tensor([6, 6, 3], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(9)
+Song 2 Predictions:  tensor([9, 9, 9], device='cuda:0') Majority vote: tensor(9, device='cuda:0') Truth: tensor(9)
+Song 1 Predictions:  tensor([6, 6, 6], device='cuda:0') Majority vote: tensor(6, device='cuda:0') Truth: tensor(9)
+Song 2 Predictions:  tensor([6, 2, 2], device='cuda:0') Majority vote: tensor(2, device='cuda:0') Truth: tensor(9)
+Number of segments evaluated:  2316 Number of segments skipped:  56
+---------------evaluate on the test set---------------
+Accuracy: 0.844560

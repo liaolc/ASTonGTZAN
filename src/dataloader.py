@@ -148,10 +148,14 @@ class AudiosetDataset(Dataset):
 
     def __getitem__(self, index):
         if random.random() < self.mixup:
-            print("mixup triggered")
+            
             datum = self.data[index]
             mix_sample_idx = random.randint(0, len(self.data)-1)
             mix_datum = self.data[mix_sample_idx]
+            #interclass resampling
+            while int(self.index_dict[mix_datum['labels']]) != int(self.index_dict[datum['labels']]):
+                mix_sample_idx = random.randint(0, len(self.data)-1)
+                mix_datum = self.data[mix_sample_idx]
             fbank, mix_lambda = self._wav2fbank(datum['wav'], mix_datum['wav'])
             label_indices = np.zeros(self.label_num)
 
@@ -174,6 +178,11 @@ class AudiosetDataset(Dataset):
             mix_ratio = min(mix_lambda, 1-mix_lambda) / max(mix_lambda, 1-mix_lambda)
 
         else:
+            if self.mixup < 0.75:
+                self.mixup *= 1.001
+                if int(self.mixup * 100) % 10 == 0:
+                    print("current mixup rate: ", self.mixup)
+                
             datum = self.data[index]
             label_indices = np.zeros(self.label_num)
             fbank, _ = self._wav2fbank(datum['wav'])
